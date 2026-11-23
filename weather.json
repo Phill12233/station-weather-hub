@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T03:41:12Z",
+  "updatedAt": "2026-11-23T04:53:34Z",
   "source": "Deutscher Wetterdienst POI und MOSMIX_L",
   "gasPathCleaningLimitC": 5.0,
   "nightWindowLocal": "20:00-06:00 Europe/Berlin",
@@ -9,15 +9,15 @@
       "code": "FRA",
       "icao": "EDDF",
       "city": "Frankfurt",
-      "currentTemp": -2.6,
-      "currentTempTime": "2026-11-23T02:30:00Z",
-      "currentTempAgeHours": 0.2,
-      "min24h": -4.2,
-      "min24hTime": "2026-11-24T02:00:00Z",
-      "nightMin": -4.2,
-      "nightMinTime": "2026-11-24T02:00:00Z",
-      "forecastStart": "2026-11-23T03:00:00Z",
-      "forecastEnd": "2026-11-27T02:00:00Z",
+      "currentTemp": -4.2,
+      "currentTempTime": "2026-11-23T04:45:00Z",
+      "currentTempAgeHours": 0.1,
+      "min24h": -4.9,
+      "min24hTime": "2026-11-24T03:00:00Z",
+      "nightMin": -4.9,
+      "nightMinTime": "2026-11-24T03:00:00Z",
+      "forecastStart": "2026-11-23T05:00:00Z",
+      "forecastEnd": "2026-11-27T04:00:00Z",
       "gasPathCleaning": "NO GO",
       "weatherStatus": "WARNING",
       "measurementStation": {
@@ -33,160 +33,152 @@
       },
       "hourly": [
         {
-          "time": "2026-11-23T03:00:00Z",
-          "temperature": -0.7
-        },
-        {
-          "time": "2026-11-23T04:00:00Z",
-          "temperature": -0.8
-        },
-        {
           "time": "2026-11-23T05:00:00Z",
-          "temperature": -0.9
+          "temperature": -2.7
         },
         {
           "time": "2026-11-23T06:00:00Z",
-          "temperature": -1.1
+          "temperature": -2.4
         },
         {
           "time": "2026-11-23T07:00:00Z",
-          "temperature": -1.0
+          "temperature": -2.0
         },
         {
           "time": "2026-11-23T08:00:00Z",
-          "temperature": -0.5
-        },
-        {
-          "time": "2026-11-23T09:00:00Z",
-          "temperature": 0.4
-        },
-        {
-          "time": "2026-11-23T10:00:00Z",
-          "temperature": 1.5
-        },
-        {
-          "time": "2026-11-23T11:00:00Z",
-          "temperature": 2.3
-        },
-        {
-          "time": "2026-11-23T12:00:00Z",
-          "temperature": 2.9
-        },
-        {
-          "time": "2026-11-23T13:00:00Z",
-          "temperature": 3.1
-        },
-        {
-          "time": "2026-11-23T14:00:00Z",
-          "temperature": 2.8
-        },
-        {
-          "time": "2026-11-23T15:00:00Z",
-          "temperature": 2.1
-        },
-        {
-          "time": "2026-11-23T16:00:00Z",
-          "temperature": 1.4
-        },
-        {
-          "time": "2026-11-23T17:00:00Z",
-          "temperature": 0.5
-        },
-        {
-          "time": "2026-11-23T18:00:00Z",
-          "temperature": -0.3
-        },
-        {
-          "time": "2026-11-23T19:00:00Z",
           "temperature": -1.2
         },
         {
-          "time": "2026-11-23T20:00:00Z",
-          "temperature": -1.8
+          "time": "2026-11-23T09:00:00Z",
+          "temperature": -0.2
         },
         {
-          "time": "2026-11-23T21:00:00Z",
-          "temperature": -2.3
+          "time": "2026-11-23T10:00:00Z",
+          "temperature": 1.1
         },
         {
-          "time": "2026-11-23T22:00:00Z",
-          "temperature": -2.8
+          "time": "2026-11-23T11:00:00Z",
+          "temperature": 2.2
         },
         {
-          "time": "2026-11-23T23:00:00Z",
-          "temperature": -3.2
+          "time": "2026-11-23T12:00:00Z",
+          "temperature": 2.7
         },
         {
-          "time": "2026-11-24T00:00:00Z",
-          "temperature": -3.7
+          "time": "2026-11-23T13:00:00Z",
+          "temperature": 2.8
         },
         {
-          "time": "2026-11-24T01:00:00Z",
-          "temperature": -3.9
+          "time": "2026-11-23T14:00:00Z",
+          "temperature": 2.5
         },
         {
-          "time": "2026-11-24T02:00:00Z",
-          "temperature": -4.2
-        },
-        {
-          "time": "2026-11-24T03:00:00Z",
-          "temperature": -4.3
-        },
-        {
-          "time": "2026-11-24T04:00:00Z",
-          "temperature": -4.6
-        },
-        {
-          "time": "2026-11-24T05:00:00Z",
-          "temperature": -4.5
-        },
-        {
-          "time": "2026-11-24T06:00:00Z",
-          "temperature": -4.3
-        },
-        {
-          "time": "2026-11-24T07:00:00Z",
-          "temperature": -3.8
-        },
-        {
-          "time": "2026-11-24T08:00:00Z",
-          "temperature": -2.9
-        },
-        {
-          "time": "2026-11-24T09:00:00Z",
-          "temperature": -1.8
-        },
-        {
-          "time": "2026-11-24T10:00:00Z",
-          "temperature": -0.6
-        },
-        {
-          "time": "2026-11-24T11:00:00Z",
-          "temperature": 0.6
-        },
-        {
-          "time": "2026-11-24T12:00:00Z",
-          "temperature": 1.2
-        },
-        {
-          "time": "2026-11-24T13:00:00Z",
+          "time": "2026-11-23T15:00:00Z",
           "temperature": 2.0
         },
         {
+          "time": "2026-11-23T16:00:00Z",
+          "temperature": 1.2
+        },
+        {
+          "time": "2026-11-23T17:00:00Z",
+          "temperature": 0.3
+        },
+        {
+          "time": "2026-11-23T18:00:00Z",
+          "temperature": -0.8
+        },
+        {
+          "time": "2026-11-23T19:00:00Z",
+          "temperature": -1.4
+        },
+        {
+          "time": "2026-11-23T20:00:00Z",
+          "temperature": -2.0
+        },
+        {
+          "time": "2026-11-23T21:00:00Z",
+          "temperature": -2.7
+        },
+        {
+          "time": "2026-11-23T22:00:00Z",
+          "temperature": -3.1
+        },
+        {
+          "time": "2026-11-23T23:00:00Z",
+          "temperature": -3.5
+        },
+        {
+          "time": "2026-11-24T00:00:00Z",
+          "temperature": -4.0
+        },
+        {
+          "time": "2026-11-24T01:00:00Z",
+          "temperature": -4.2
+        },
+        {
+          "time": "2026-11-24T02:00:00Z",
+          "temperature": -4.7
+        },
+        {
+          "time": "2026-11-24T03:00:00Z",
+          "temperature": -4.9
+        },
+        {
+          "time": "2026-11-24T04:00:00Z",
+          "temperature": -4.9
+        },
+        {
+          "time": "2026-11-24T05:00:00Z",
+          "temperature": -4.6
+        },
+        {
+          "time": "2026-11-24T06:00:00Z",
+          "temperature": -4.4
+        },
+        {
+          "time": "2026-11-24T07:00:00Z",
+          "temperature": -4.0
+        },
+        {
+          "time": "2026-11-24T08:00:00Z",
+          "temperature": -3.2
+        },
+        {
+          "time": "2026-11-24T09:00:00Z",
+          "temperature": -2.2
+        },
+        {
+          "time": "2026-11-24T10:00:00Z",
+          "temperature": -0.8
+        },
+        {
+          "time": "2026-11-24T11:00:00Z",
+          "temperature": 0.3
+        },
+        {
+          "time": "2026-11-24T12:00:00Z",
+          "temperature": 1.1
+        },
+        {
+          "time": "2026-11-24T13:00:00Z",
+          "temperature": 1.8
+        },
+        {
           "time": "2026-11-24T14:00:00Z",
-          "temperature": 1.9
+          "temperature": 1.8
         },
         {
           "time": "2026-11-24T15:00:00Z",
-          "temperature": 1.3
+          "temperature": 1.4
         },
         {
           "time": "2026-11-24T16:00:00Z",
-          "temperature": 0.7
+          "temperature": 0.8
         },
         {
           "time": "2026-11-24T17:00:00Z",
-          "temperature": 0.2
+          "temperature": 0.4
         },
         {
           "time": "2026-11-24T18:00:00Z",
@@ -194,35 +186,35 @@
         },
         {
           "time": "2026-11-24T19:00:00Z",
-          "temperature": -0.5
+          "temperature": -0.6
         },
         {
           "time": "2026-11-24T20:00:00Z",
-          "temperature": -0.7
-        },
-        {
-          "time": "2026-11-24T21:00:00Z",
-          "temperature": -0.8
-        },
-        {
-          "time": "2026-11-24T22:00:00Z",
           "temperature": -0.9
         },
         {
+          "time": "2026-11-24T21:00:00Z",
+          "temperature": -1.0
+        },
+        {
+          "time": "2026-11-24T22:00:00Z",
+          "temperature": -1.1
+        },
+        {
           "time": "2026-11-24T23:00:00Z",
-          "temperature": -1.3
+          "temperature": -1.5
         },
         {
           "time": "2026-11-25T00:00:00Z",
-          "temperature": -1.4
-        },
-        {
-          "time": "2026-11-25T01:00:00Z",
           "temperature": -1.6
         },
         {
+          "time": "2026-11-25T01:00:00Z",
+          "temperature": -1.8
+        },
+        {
           "time": "2026-11-25T02:00:00Z",
-          "temperature": -1.7
+          "temperature": -1.9
         },
         {
           "time": "2026-11-25T03:00:00Z",
@@ -230,27 +222,27 @@
         },
         {
           "time": "2026-11-25T04:00:00Z",
-          "temperature": -2.1
+          "temperature": -1.8
         },
         {
           "time": "2026-11-25T05:00:00Z",
-          "temperature": -2.1
+          "temperature": -1.9
         },
         {
           "time": "2026-11-25T06:00:00Z",
-          "temperature": -2.1
+          "temperature": -1.8
         },
         {
           "time": "2026-11-25T07:00:00Z",
-          "temperature": -1.6
+          "temperature": -1.4
         },
         {
           "time": "2026-11-25T08:00:00Z",
-          "temperature": -1.1
+          "temperature": -0.9
         },
         {
           "time": "2026-11-25T09:00:00Z",
-          "temperature": -0.3
+          "temperature": -0.2
         },
         {
           "time": "2026-11-25T10:00:00Z",
@@ -262,11 +254,11 @@
         },
         {
           "time": "2026-11-25T12:00:00Z",
-          "temperature": 1.6
+          "temperature": 1.5
         },
         {
           "time": "2026-11-25T13:00:00Z",
-          "temperature": 2.0
+          "temperature": 1.8
         },
         {
           "time": "2026-11-25T14:00:00Z",
@@ -274,35 +266,35 @@
         },
         {
           "time": "2026-11-25T15:00:00Z",
-          "temperature": 1.2
+          "temperature": 1.4
         },
         {
           "time": "2026-11-25T16:00:00Z",
-          "temperature": 0.7
+          "temperature": 0.9
         },
         {
           "time": "2026-11-25T17:00:00Z",
-          "temperature": 0.3
+          "temperature": 0.7
         },
         {
           "time": "2026-11-25T18:00:00Z",
-          "temperature": 0.0
+          "temperature": 0.3
         },
         {
           "time": "2026-11-25T19:00:00Z",
-          "temperature": -0.3
+          "temperature": 0.1
         },
         {
           "time": "2026-11-25T20:00:00Z",
-          "temperature": -0.4
+          "temperature": -0.1
         },
         {
           "time": "2026-11-25T21:00:00Z",
-          "temperature": -0.4
+          "temperature": -0.3
         },
         {
           "time": "2026-11-25T22:00:00Z",
-          "temperature": -0.7
+          "temperature": -0.6
         },
         {
           "time": "2026-11-25T23:00:00Z",
@@ -310,39 +302,39 @@
         },
         {
           "time": "2026-11-26T00:00:00Z",
-          "temperature": -1.0
+          "temperature": -1.1
         },
         {
           "time": "2026-11-26T01:00:00Z",
-          "temperature": -1.0
+          "temperature": -1.1
         },
         {
           "time": "2026-11-26T02:00:00Z",
-          "temperature": -1.2
+          "temperature": -1.3
         },
         {
           "time": "2026-11-26T03:00:00Z",
-          "temperature": -1.4
-        },
-        {
-          "time": "2026-11-26T04:00:00Z",
-          "temperature": -1.4
-        },
-        {
-          "time": "2026-11-26T05:00:00Z",
-          "temperature": -1.6
-        },
-        {
-          "time": "2026-11-26T06:00:00Z",
-          "temperature": -1.6
-        },
-        {
-          "time": "2026-11-26T07:00:00Z",
           "temperature": -1.5
         },
         {
+          "time": "2026-11-26T04:00:00Z",
+          "temperature": -1.6
+        },
+        {
+          "time": "2026-11-26T05:00:00Z",
+          "temperature": -1.7
+        },
+        {
+          "time": "2026-11-26T06:00:00Z",
+          "temperature": -1.8
+        },
+        {
+          "time": "2026-11-26T07:00:00Z",
+          "temperature": -1.6
+        },
+        {
           "time": "2026-11-26T08:00:00Z",
-          "temperature": -1.1
+          "temperature": -1.2
         },
         {
           "time": "2026-11-26T09:00:00Z",
@@ -350,7 +342,7 @@
         },
         {
           "time": "2026-11-26T10:00:00Z",
-          "temperature": -0.3
+          "temperature": -0.2
         },
         {
           "time": "2026-11-26T11:00:00Z",
@@ -362,11 +354,11 @@
         },
         {
           "time": "2026-11-26T13:00:00Z",
-          "temperature": 0.9
+          "temperature": 0.8
         },
         {
           "time": "2026-11-26T14:00:00Z",
-          "temperature": 0.7
+          "temperature": 0.8
         },
         {
           "time": "2026-11-26T15:00:00Z",
@@ -378,43 +370,51 @@
         },
         {
           "time": "2026-11-26T17:00:00Z",
-          "temperature": -0.1
+          "temperature": -0.2
         },
         {
           "time": "2026-11-26T18:00:00Z",
-          "temperature": -0.2
+          "temperature": -0.3
         },
         {
           "time": "2026-11-26T19:00:00Z",
-          "temperature": -0.1
+          "temperature": -0.2
         },
         {
           "time": "2026-11-26T20:00:00Z",
-          "temperature": -0.1
+          "temperature": -0.3
         },
         {
           "time": "2026-11-26T21:00:00Z",
-          "temperature": -0.1
+          "temperature": -0.6
         },
         {
           "time": "2026-11-26T22:00:00Z",
-          "temperature": -0.2
+          "temperature": -0.8
         },
         {
           "time": "2026-11-26T23:00:00Z",
-          "temperature": -0.2
+          "temperature": -0.9
         },
         {
           "time": "2026-11-27T00:00:00Z",
-          "temperature": -0.4
+          "temperature": -1.2
         },
         {
           "time": "2026-11-27T01:00:00Z",
-          "temperature": -0.4
+          "temperature": -1.3
         },
         {
           "time": "2026-11-27T02:00:00Z",
-          "temperature": -0.5
+          "temperature": -1.3
+        },
+        {
+          "time": "2026-11-27T03:00:00Z",
+          "temperature": -1.1
+        },
+        {
+          "time": "2026-11-27T04:00:00Z",
+          "temperature": -1.1
         }
       ],
       "errors": []
@@ -423,15 +423,15 @@
       "code": "MUC",
       "icao": "EDDM",
       "city": "München",
-      "currentTemp": -1.6,
-      "currentTempTime": "2026-11-23T02:30:00Z",
-      "currentTempAgeHours": 0.2,
-      "min24h": -5.7,
-      "min24hTime": "2026-11-24T02:00:00Z",
-      "nightMin": -5.7,
-      "nightMinTime": "2026-11-24T02:00:00Z",
-      "forecastStart": "2026-11-23T03:00:00Z",
-      "forecastEnd": "2026-11-27T02:00:00Z",
+      "currentTemp": -1.7,
+      "currentTempTime": "2026-11-23T04:45:00Z",
+      "currentTempAgeHours": 0.1,
+      "min24h": -6.4,
+      "min24hTime": "2026-11-24T04:00:00Z",
+      "nightMin": -6.4,
+      "nightMinTime": "2026-11-24T04:00:00Z",
+      "forecastStart": "2026-11-23T05:00:00Z",
+      "forecastEnd": "2026-11-27T04:00:00Z",
       "gasPathCleaning": "NO GO",
       "weatherStatus": "CRITICAL",
       "measurementStation": {
@@ -447,16 +447,8 @@
       },
       "hourly": [
         {
-          "time": "2026-11-23T03:00:00Z",
-          "temperature": -1.1
-        },
-        {
-          "time": "2026-11-23T04:00:00Z",
-          "temperature": -1.2
-        },
-        {
           "time": "2026-11-23T05:00:00Z",
-          "temperature": -1.2
+          "temperature": -1.1
         },
         {
           "time": "2026-11-23T06:00:00Z",
@@ -476,27 +468,27 @@
         },
         {
           "time": "2026-11-23T10:00:00Z",
-          "temperature": 0.3
+          "temperature": 0.1
         },
         {
           "time": "2026-11-23T11:00:00Z",
-          "temperature": 0.6
+          "temperature": 0.5
         },
         {
           "time": "2026-11-23T12:00:00Z",
-          "temperature": 0.9
+          "temperature": 0.7
         },
         {
           "time": "2026-11-23T13:00:00Z",
-          "temperature": 0.9
+          "temperature": 0.7
         },
         {
           "time": "2026-11-23T14:00:00Z",
-          "temperature": 0.6
+          "temperature": 0.5
         },
         {
           "time": "2026-11-23T15:00:00Z",
-          "temperature": 0.3
+          "temperature": 0.2
         },
         {
           "time": "2026-11-23T16:00:00Z",
@@ -504,7 +496,7 @@
         },
         {
           "time": "2026-11-23T17:00:00Z",
-          "temperature": -1.1
+          "temperature": -1.0
         },
         {
           "time": "2026-11-23T18:00:00Z",
@@ -512,23 +504,23 @@
         },
         {
           "time": "2026-11-23T19:00:00Z",
-          "temperature": -2.6
+          "temperature": -2.7
         },
         {
           "time": "2026-11-23T20:00:00Z",
-          "temperature": -3.0
+          "temperature": -3.2
         },
         {
           "time": "2026-11-23T21:00:00Z",
-          "temperature": -3.7
+          "temperature": -3.8
         },
         {
           "time": "2026-11-23T22:00:00Z",
-          "temperature": -4.2
+          "temperature": -4.3
         },
         {
           "time": "2026-11-23T23:00:00Z",
-          "temperature": -4.7
+          "temperature": -4.8
         },
         {
           "time": "2026-11-24T00:00:00Z",
@@ -536,7 +528,7 @@
         },
         {
           "time": "2026-11-24T01:00:00Z",
-          "temperature": -5.3
+          "temperature": -5.5
         },
         {
           "time": "2026-11-24T02:00:00Z",
@@ -544,23 +536,23 @@
         },
         {
           "time": "2026-11-24T03:00:00Z",
-          "temperature": -5.8
+          "temperature": -5.9
         },
         {
           "time": "2026-11-24T04:00:00Z",
-          "temperature": -6.2
+          "temperature": -6.4
         },
         {
           "time": "2026-11-24T05:00:00Z",
-          "temperature": -6.2
+          "temperature": -6.4
         },
         {
           "time": "2026-11-24T06:00:00Z",
-          "temperature": -6.0
+          "temperature": -6.2
         },
         {
           "time": "2026-11-24T07:00:00Z",
-          "temperature": -5.4
+          "temperature": -5.5
         },
         {
           "time": "2026-11-24T08:00:00Z",
@@ -568,39 +560,39 @@
         },
         {
           "time": "2026-11-24T09:00:00Z",
-          "temperature": -2.8
+          "temperature": -2.6
         },
         {
           "time": "2026-11-24T10:00:00Z",
-          "temperature": -1.6
+          "temperature": -1.3
         },
         {
           "time": "2026-11-24T11:00:00Z",
-          "temperature": -0.7
+          "temperature": -0.4
         },
         {
           "time": "2026-11-24T12:00:00Z",
-          "temperature": -0.3
-        },
-        {
-          "time": "2026-11-24T13:00:00Z",
           "temperature": 0.1
         },
         {
+          "time": "2026-11-24T13:00:00Z",
+          "temperature": 0.5
+        },
+        {
           "time": "2026-11-24T14:00:00Z",
-          "temperature": 0.0
+          "temperature": 0.3
         },
         {
           "time": "2026-11-24T15:00:00Z",
-          "temperature": -0.6
+          "temperature": -0.3
         },
         {
           "time": "2026-11-24T16:00:00Z",
-          "temperature": -1.4
+          "temperature": -1.2
         },
         {
           "time": "2026-11-24T17:00:00Z",
-          "temperature": -2.1
+          "temperature": -2.2
         },
         {
           "time": "2026-11-24T18:00:00Z",
@@ -608,15 +600,15 @@
         },
         {
           "time": "2026-11-24T19:00:00Z",
-          "temperature": -3.3
+          "temperature": -3.4
         },
         {
           "time": "2026-11-24T20:00:00Z",
-          "temperature": -3.6
+          "temperature": -3.7
         },
         {
           "time": "2026-11-24T21:00:00Z",
-          "temperature": -3.8
+          "temperature": -3.7
         },
         {
           "time": "2026-11-24T22:00:00Z",
@@ -624,27 +616,27 @@
         },
         {
           "time": "2026-11-24T23:00:00Z",
-          "temperature": -3.7
+          "temperature": -3.8
         },
         {
           "time": "2026-11-25T00:00:00Z",
-          "temperature": -3.7
+          "temperature": -3.8
         },
         {
           "time": "2026-11-25T01:00:00Z",
-          "temperature": -3.7
+          "temperature": -3.8
         },
         {
           "time": "2026-11-25T02:00:00Z",
-          "temperature": -3.6
-        },
-        {
-          "time": "2026-11-25T03:00:00Z",
           "temperature": -3.7
         },
         {
-          "time": "2026-11-25T04:00:00Z",
+          "time": "2026-11-25T03:00:00Z",
           "temperature": -3.6
+        },
+        {
+          "time": "2026-11-25T04:00:00Z",
+          "temperature": -3.5
         },
         {
           "time": "2026-11-25T05:00:00Z",
@@ -652,19 +644,19 @@
         },
         {
           "time": "2026-11-25T06:00:00Z",
-          "temperature": -3.4
-        },
-        {
-          "time": "2026-11-25T07:00:00Z",
           "temperature": -3.3
         },
         {
+          "time": "2026-11-25T07:00:00Z",
+          "temperature": -3.2
+        },
+        {
           "time": "2026-11-25T08:00:00Z",
-          "temperature": -2.8
+          "temperature": -2.6
         },
         {
           "time": "2026-11-25T09:00:00Z",
-          "temperature": -2.0
+          "temperature": -1.8
         },
         {
           "time": "2026-11-25T10:00:00Z",
@@ -672,15 +664,15 @@
         },
         {
           "time": "2026-11-25T11:00:00Z",
-          "temperature": -0.7
+          "temperature": -0.5
         },
         {
           "time": "2026-11-25T12:00:00Z",
-          "temperature": -0.2
+          "temperature": 0.0
         },
         {
           "time": "2026-11-25T13:00:00Z",
-          "temperature": 0.2
+          "temperature": 0.1
         },
         {
           "time": "2026-11-25T14:00:00Z",
@@ -688,15 +680,15 @@
         },
         {
           "time": "2026-11-25T15:00:00Z",
-          "temperature": -0.5
+          "temperature": -0.4
         },
         {
           "time": "2026-11-25T16:00:00Z",
-          "temperature": -0.8
+          "temperature": -0.7
         },
         {
           "time": "2026-11-25T17:00:00Z",
-          "temperature": -1.1
+          "temperature": -1.0
         },
         {
           "time": "2026-11-25T18:00:00Z",
@@ -704,15 +696,15 @@
         },
         {
           "time": "2026-11-25T19:00:00Z",
-          "temperature": -1.2
+          "temperature": -1.1
         },
         {
           "time": "2026-11-25T20:00:00Z",
-          "temperature": -1.3
+          "temperature": -1.1
         },
         {
           "time": "2026-11-25T21:00:00Z",
-          "temperature": -1.4
+          "temperature": -1.3
         },
         {
           "time": "2026-11-25T22:00:00Z",
@@ -720,7 +712,7 @@
         },
         {
           "time": "2026-11-25T23:00:00Z",
-          "temperature": -1.4
+          "temperature": -1.3
         },
         {
           "time": "2026-11-26T00:00:00Z",
@@ -728,35 +720,35 @@
         },
         {
           "time": "2026-11-26T01:00:00Z",
-          "temperature": -1.4
-        },
-        {
-          "time": "2026-11-26T02:00:00Z",
-          "temperature": -1.4
-        },
-        {
-          "time": "2026-11-26T03:00:00Z",
           "temperature": -1.5
         },
         {
-          "time": "2026-11-26T04:00:00Z",
-          "temperature": -1.8
+          "time": "2026-11-26T02:00:00Z",
+          "temperature": -1.3
         },
         {
-          "time": "2026-11-26T05:00:00Z",
+          "time": "2026-11-26T03:00:00Z",
+          "temperature": -1.4
+        },
+        {
+          "time": "2026-11-26T04:00:00Z",
           "temperature": -1.7
         },
         {
+          "time": "2026-11-26T05:00:00Z",
+          "temperature": -1.6
+        },
+        {
           "time": "2026-11-26T06:00:00Z",
-          "temperature": -2.0
+          "temperature": -1.7
         },
         {
           "time": "2026-11-26T07:00:00Z",
-          "temperature": -1.9
+          "temperature": -1.7
         },
         {
           "time": "2026-11-26T08:00:00Z",
-          "temperature": -1.9
+          "temperature": -1.7
         },
         {
           "time": "2026-11-26T09:00:00Z",
@@ -764,71 +756,79 @@
         },
         {
           "time": "2026-11-26T10:00:00Z",
-          "temperature": -1.4
+          "temperature": -1.6
         },
         {
           "time": "2026-11-26T11:00:00Z",
-          "temperature": -1.0
+          "temperature": -1.2
         },
         {
           "time": "2026-11-26T12:00:00Z",
-          "temperature": -0.8
+          "temperature": -1.0
         },
         {
           "time": "2026-11-26T13:00:00Z",
-          "temperature": -0.9
+          "temperature": -1.1
         },
         {
           "time": "2026-11-26T14:00:00Z",
-          "temperature": -1.1
+          "temperature": -1.2
         },
         {
           "time": "2026-11-26T15:00:00Z",
-          "temperature": -1.3
-        },
-        {
-          "time": "2026-11-26T16:00:00Z",
-          "temperature": -1.2
-        },
-        {
-          "time": "2026-11-26T17:00:00Z",
-          "temperature": -1.1
-        },
-        {
-          "time": "2026-11-26T18:00:00Z",
-          "temperature": -1.0
-        },
-        {
-          "time": "2026-11-26T19:00:00Z",
-          "temperature": -0.9
-        },
-        {
-          "time": "2026-11-26T20:00:00Z",
-          "temperature": -0.8
-        },
-        {
-          "time": "2026-11-26T21:00:00Z",
-          "temperature": -0.9
-        },
-        {
-          "time": "2026-11-26T22:00:00Z",
-          "temperature": -1.0
-        },
-        {
-          "time": "2026-11-26T23:00:00Z",
-          "temperature": -1.1
-        },
-        {
-          "time": "2026-11-27T00:00:00Z",
-          "temperature": -1.2
-        },
-        {
-          "time": "2026-11-27T01:00:00Z",
           "temperature": -1.4
         },
         {
-          "time": "2026-11-27T02:00:00Z",
+          "time": "2026-11-26T16:00:00Z",
+          "temperature": -1.3
+        },
+        {
+          "time": "2026-11-26T17:00:00Z",
+          "temperature": -1.4
+        },
+        {
+          "time": "2026-11-26T18:00:00Z",
+          "temperature": -1.3
+        },
+        {
+          "time": "2026-11-26T19:00:00Z",
+          "temperature": -1.3
+        },
+        {
+          "time": "2026-11-26T20:00:00Z",
+          "temperature": -1.1
+        },
+        {
+          "time": "2026-11-26T21:00:00Z",
+          "temperature": -1.3
+        },
+        {
+          "time": "2026-11-26T22:00:00Z",
+          "temperature": -1.5
+        },
+        {
+          "time": "2026-11-26T23:00:00Z",
           "temperature": -1.6
+        },
+        {
+          "time": "2026-11-27T00:00:00Z",
+          "temperature": -1.7
+        },
+        {
+          "time": "2026-11-27T01:00:00Z",
+          "temperature": -1.7
+        },
+        {
+          "time": "2026-11-27T02:00:00Z",
+          "temperature": -1.9
+        },
+        {
+          "time": "2026-11-27T03:00:00Z",
+          "temperature": -2.0
+        },
+        {
+          "time": "2026-11-27T04:00:00Z",
+          "temperature": -1.9
         }
       ],
       "errors": []
@@ -837,15 +837,15 @@
       "code": "BER",
       "icao": "EDDB",
       "city": "Berlin Brandenburg",
-      "currentTemp": 0.4,
-      "currentTempTime": "2026-11-23T02:30:00Z",
-      "currentTempAgeHours": 0.2,
-      "min24h": 0.1,
-      "min24hTime": "2026-11-23T05:00:00Z",
-      "nightMin": 0.1,
-      "nightMinTime": "2026-11-23T05:00:00Z",
-      "forecastStart": "2026-11-23T03:00:00Z",
-      "forecastEnd": "2026-11-27T02:00:00Z",
+      "currentTemp": 0.3,
+      "currentTempTime": "2026-11-23T04:45:00Z",
+      "currentTempAgeHours": 0.1,
+      "min24h": 0.6,
+      "min24hTime": "2026-11-23T22:00:00Z",
+      "nightMin": 0.6,
+      "nightMinTime": "2026-11-23T22:00:00Z",
+      "forecastStart": "2026-11-23T05:00:00Z",
+      "forecastEnd": "2026-11-27T04:00:00Z",
       "gasPathCleaning": "NO GO",
       "weatherStatus": "WATCH",
       "measurementStation": {
@@ -861,32 +861,24 @@
       },
       "hourly": [
         {
-          "time": "2026-11-23T03:00:00Z",
-          "temperature": 0.5
-        },
-        {
-          "time": "2026-11-23T04:00:00Z",
-          "temperature": 0.3
-        },
-        {
           "time": "2026-11-23T05:00:00Z",
-          "temperature": 0.1
+          "temperature": 0.8
         },
         {
           "time": "2026-11-23T06:00:00Z",
-          "temperature": 0.1
-        },
-        {
-          "time": "2026-11-23T07:00:00Z",
-          "temperature": 0.4
-        },
-        {
-          "time": "2026-11-23T08:00:00Z",
           "temperature": 0.7
         },
         {
+          "time": "2026-11-23T07:00:00Z",
+          "temperature": 0.8
+        },
+        {
+          "time": "2026-11-23T08:00:00Z",
+          "temperature": 1.1
+        },
+        {
           "time": "2026-11-23T09:00:00Z",
-          "temperature": 1.2
+          "temperature": 1.5
         },
         {
           "time": "2026-11-23T10:00:00Z",
@@ -906,19 +898,19 @@
         },
         {
           "time": "2026-11-23T14:00:00Z",
-          "temperature": 2.3
+          "temperature": 2.4
         },
         {
           "time": "2026-11-23T15:00:00Z",
-          "temperature": 1.9
+          "temperature": 2.0
         },
         {
           "time": "2026-11-23T16:00:00Z",
-          "temperature": 1.4
+          "temperature": 1.5
         },
         {
           "time": "2026-11-23T17:00:00Z",
-          "temperature": 1.1
+          "temperature": 1.2
         },
         {
           "time": "2026-11-23T18:00:00Z",
@@ -930,7 +922,7 @@
         },
         {
           "time": "2026-11-23T20:00:00Z",
-          "temperature": 0.8
+          "temperature": 0.7
         },
         {
           "time": "2026-11-23T21:00:00Z",
@@ -946,19 +938,19 @@
         },
         {
           "time": "2026-11-24T00:00:00Z",
-          "temperature": 0.6
+          "temperature": 0.7
         },
         {
           "time": "2026-11-24T01:00:00Z",
-          "temperature": 0.6
+          "temperature": 0.7
         },
         {
           "time": "2026-11-24T02:00:00Z",
-          "temperature": 0.5
+          "temperature": 0.6
         },
         {
           "time": "2026-11-24T03:00:00Z",
-          "temperature": 0.6
+          "temperature": 0.8
         },
         {
           "time": "2026-11-24T04:00:00Z",
@@ -966,23 +958,23 @@
         },
         {
           "time": "2026-11-24T05:00:00Z",
-          "temperature": 0.6
+          "temperature": 0.7
         },
         {
           "time": "2026-11-24T06:00:00Z",
-          "temperature": 0.6
-        },
-        {
-          "time": "2026-11-24T07:00:00Z",
-          "temperature": 0.6
-        },
-        {
-          "time": "2026-11-24T08:00:00Z",
           "temperature": 0.8
         },
         {
+          "time": "2026-11-24T07:00:00Z",
+          "temperature": 0.8
+        },
+        {
+          "time": "2026-11-24T08:00:00Z",
+          "temperature": 1.0
+        },
+        {
           "time": "2026-11-24T09:00:00Z",
-          "temperature": 1.1
+          "temperature": 1.2
         },
         {
           "time": "2026-11-24T10:00:00Z",
@@ -990,7 +982,7 @@
         },
         {
           "time": "2026-11-24T11:00:00Z",
-          "temperature": 1.8
+          "temperature": 2.0
         },
         {
           "time": "2026-11-24T12:00:00Z",
@@ -1002,7 +994,7 @@
         },
         {
           "time": "2026-11-24T14:00:00Z",
-          "temperature": 2.1
+          "temperature": 2.0
         },
         {
           "time": "2026-11-24T15:00:00Z",
@@ -1014,15 +1006,15 @@
         },
         {
           "time": "2026-11-24T17:00:00Z",
-          "temperature": 0.8
+          "temperature": 1.0
         },
         {
           "time": "2026-11-24T18:00:00Z",
-          "temperature": 0.4
+          "temperature": 0.5
         },
         {
           "time": "2026-11-24T19:00:00Z",
-          "temperature": -0.1
+          "temperature": 0.1
         },
         {
           "time": "2026-11-24T20:00:00Z",
@@ -1034,7 +1026,7 @@
         },
         {
           "time": "2026-11-24T22:00:00Z",
-          "temperature": -0.7
+          "temperature": -0.8
         },
         {
           "time": "2026-11-24T23:00:00Z",
@@ -1042,7 +1034,7 @@
         },
         {
           "time": "2026-11-25T00:00:00Z",
-          "temperature": -1.4
+          "temperature": -1.3
         },
         {
           "time": "2026-11-25T01:00:00Z",
@@ -1062,23 +1054,23 @@
         },
         {
           "time": "2026-11-25T05:00:00Z",
-          "temperature": -2.4
+          "temperature": -2.5
         },
         {
           "time": "2026-11-25T06:00:00Z",
-          "temperature": -2.6
+          "temperature": -2.5
         },
         {
           "time": "2026-11-25T07:00:00Z",
-          "temperature": -2.3
+          "temperature": -2.2
         },
         {
           "time": "2026-11-25T08:00:00Z",
-          "temperature": -1.8
+          "temperature": -1.7
         },
         {
           "time": "2026-11-25T09:00:00Z",
-          "temperature": -1.2
+          "temperature": -1.0
         },
         {
           "time": "2026-11-25T10:00:00Z",
@@ -1086,23 +1078,23 @@
         },
         {
           "time": "2026-11-25T11:00:00Z",
-          "temperature": 0.2
+          "temperature": 0.3
         },
         {
           "time": "2026-11-25T12:00:00Z",
-          "temperature": 0.5
+          "temperature": 0.7
         },
         {
           "time": "2026-11-25T13:00:00Z",
-          "temperature": 0.6
+          "temperature": 0.7
         },
         {
           "time": "2026-11-25T14:00:00Z",
-          "temperature": 0.4
+          "temperature": 0.5
         },
         {
           "time": "2026-11-25T15:00:00Z",
-          "temperature": -0.1
+          "temperature": 0.0
         },
         {
           "time": "2026-11-25T16:00:00Z",
@@ -1110,11 +1102,11 @@
         },
         {
           "time": "2026-11-25T17:00:00Z",
-          "temperature": -0.6
+          "temperature": -0.9
         },
         {
           "time": "2026-11-25T18:00:00Z",
-          "temperature": -1.0
+          "temperature": -1.1
         },
         {
           "time": "2026-11-25T19:00:00Z",
@@ -1126,59 +1118,59 @@
         },
         {
           "time": "2026-11-25T21:00:00Z",
-          "temperature": -1.9
+          "temperature": -1.7
         },
         {
           "time": "2026-11-25T22:00:00Z",
-          "temperature": -2.1
+          "temperature": -2.0
         },
         {
           "time": "2026-11-25T23:00:00Z",
-          "temperature": -2.4
-        },
-        {
-          "time": "2026-11-26T00:00:00Z",
-          "temperature": -2.6
-        },
-        {
-          "time": "2026-11-26T01:00:00Z",
-          "temperature": -2.5
-        },
-        {
-          "time": "2026-11-26T02:00:00Z",
-          "temperature": -2.6
-        },
-        {
-          "time": "2026-11-26T03:00:00Z",
-          "temperature": -2.5
-        },
-        {
-          "time": "2026-11-26T04:00:00Z",
-          "temperature": -2.5
-        },
-        {
-          "time": "2026-11-26T05:00:00Z",
-          "temperature": -2.5
-        },
-        {
-          "time": "2026-11-26T06:00:00Z",
-          "temperature": -2.5
-        },
-        {
-          "time": "2026-11-26T07:00:00Z",
           "temperature": -2.2
         },
         {
+          "time": "2026-11-26T00:00:00Z",
+          "temperature": -2.4
+        },
+        {
+          "time": "2026-11-26T01:00:00Z",
+          "temperature": -2.4
+        },
+        {
+          "time": "2026-11-26T02:00:00Z",
+          "temperature": -2.4
+        },
+        {
+          "time": "2026-11-26T03:00:00Z",
+          "temperature": -2.3
+        },
+        {
+          "time": "2026-11-26T04:00:00Z",
+          "temperature": -2.3
+        },
+        {
+          "time": "2026-11-26T05:00:00Z",
+          "temperature": -2.3
+        },
+        {
+          "time": "2026-11-26T06:00:00Z",
+          "temperature": -2.1
+        },
+        {
+          "time": "2026-11-26T07:00:00Z",
+          "temperature": -2.0
+        },
+        {
           "time": "2026-11-26T08:00:00Z",
-          "temperature": -1.8
+          "temperature": -1.6
         },
         {
           "time": "2026-11-26T09:00:00Z",
-          "temperature": -1.3
+          "temperature": -1.2
         },
         {
           "time": "2026-11-26T10:00:00Z",
-          "temperature": -0.7
+          "temperature": -0.6
         },
         {
           "time": "2026-11-26T11:00:00Z",
@@ -1190,7 +1182,7 @@
         },
         {
           "time": "2026-11-26T13:00:00Z",
-          "temperature": 0.1
+          "temperature": 0.2
         },
         {
           "time": "2026-11-26T14:00:00Z",
@@ -1198,11 +1190,11 @@
         },
         {
           "time": "2026-11-26T15:00:00Z",
-          "temperature": -0.4
+          "temperature": -0.3
         },
         {
           "time": "2026-11-26T16:00:00Z",
-          "temperature": -0.8
+          "temperature": -0.6
         },
         {
           "time": "2026-11-26T17:00:00Z",
@@ -1210,19 +1202,19 @@
         },
         {
           "time": "2026-11-26T18:00:00Z",
-          "temperature": -1.3
+          "temperature": -1.1
         },
         {
           "time": "2026-11-26T19:00:00Z",
-          "temperature": -1.4
+          "temperature": -1.2
         },
         {
           "time": "2026-11-26T20:00:00Z",
-          "temperature": -1.4
+          "temperature": -1.3
         },
         {
           "time": "2026-11-26T21:00:00Z",
-          "temperature": -1.5
+          "temperature": -1.6
         },
         {
           "time": "2026-11-26T22:00:00Z",
@@ -1234,15 +1226,23 @@
         },
         {
           "time": "2026-11-27T00:00:00Z",
-          "temperature": -2.0
+          "temperature": -2.1
         },
         {
           "time": "2026-11-27T01:00:00Z",
-          "temperature": -2.0
+          "temperature": -2.1
         },
         {
           "time": "2026-11-27T02:00:00Z",
-          "temperature": -2.1
+          "temperature": -2.2
+        },
+        {
+          "time": "2026-11-27T03:00:00Z",
+          "temperature": -2.5
+        },
+        {
+          "time": "2026-11-27T04:00:00Z",
+          "temperature": -2.7
         }
       ],
       "errors": []
@@ -1251,15 +1251,15 @@
       "code": "HAM",
       "icao": "EDDH",
       "city": "Hamburg",
-      "currentTemp": -1.7,
-      "currentTempTime": "2026-11-23T02:30:00Z",
-      "currentTempAgeHours": 0.2,
-      "min24h": -2.6,
-      "min24hTime": "2026-11-24T02:00:00Z",
-      "nightMin": -2.6,
-      "nightMinTime": "2026-11-24T02:00:00Z",
-      "forecastStart": "2026-11-23T03:00:00Z",
-      "forecastEnd": "2026-11-27T02:00:00Z",
+      "currentTemp": -2.2,
+      "currentTempTime": "2026-11-23T04:45:00Z",
+      "currentTempAgeHours": 0.1,
+      "min24h": -2.8,
+      "min24hTime": "2026-11-24T04:00:00Z",
+      "nightMin": -2.8,
+      "nightMinTime": "2026-11-24T04:00:00Z",
+      "forecastStart": "2026-11-23T05:00:00Z",
+      "forecastEnd": "2026-11-27T04:00:00Z",
       "gasPathCleaning": "NO GO",
       "weatherStatus": "WARNING",
       "measurementStation": {
@@ -1275,52 +1275,44 @@
       },
       "hourly": [
         {
-          "time": "2026-11-23T03:00:00Z",
-          "temperature": -1.8
-        },
-        {
-          "time": "2026-11-23T04:00:00Z",
-          "temperature": -2.2
-        },
-        {
           "time": "2026-11-23T05:00:00Z",
-          "temperature": -2.4
+          "temperature": -2.0
         },
         {
           "time": "2026-11-23T06:00:00Z",
-          "temperature": -2.4
+          "temperature": -2.1
         },
         {
           "time": "2026-11-23T07:00:00Z",
-          "temperature": -2.2
+          "temperature": -2.0
         },
         {
           "time": "2026-11-23T08:00:00Z",
-          "temperature": -1.7
+          "temperature": -1.4
         },
         {
           "time": "2026-11-23T09:00:00Z",
-          "temperature": -0.8
+          "temperature": -0.5
         },
         {
           "time": "2026-11-23T10:00:00Z",
-          "temperature": 0.5
+          "temperature": 0.7
         },
         {
           "time": "2026-11-23T11:00:00Z",
-          "temperature": 1.5
+          "temperature": 1.6
         },
         {
           "time": "2026-11-23T12:00:00Z",
-          "temperature": 2.1
+          "temperature": 2.3
         },
         {
           "time": "2026-11-23T13:00:00Z",
-          "temperature": 2.6
+          "temperature": 2.7
         },
         {
           "time": "2026-11-23T14:00:00Z",
-          "temperature": 2.2
+          "temperature": 2.3
         },
         {
           "time": "2026-11-23T15:00:00Z",
@@ -1328,55 +1320,55 @@
         },
         {
           "time": "2026-11-23T16:00:00Z",
-          "temperature": 1.0
+          "temperature": 1.1
         },
         {
           "time": "2026-11-23T17:00:00Z",
-          "temperature": 0.4
+          "temperature": 0.6
         },
         {
           "time": "2026-11-23T18:00:00Z",
-          "temperature": -0.1
+          "temperature": 0.1
         },
         {
           "time": "2026-11-23T19:00:00Z",
-          "temperature": -0.6
+          "temperature": -0.4
         },
         {
           "time": "2026-11-23T20:00:00Z",
-          "temperature": -1.0
+          "temperature": -0.8
         },
         {
           "time": "2026-11-23T21:00:00Z",
-          "temperature": -1.3
+          "temperature": -1.1
         },
         {
           "time": "2026-11-23T22:00:00Z",
-          "temperature": -1.6
+          "temperature": -1.3
         },
         {
           "time": "2026-11-23T23:00:00Z",
-          "temperature": -1.9
+          "temperature": -1.6
         },
         {
           "time": "2026-11-24T00:00:00Z",
-          "temperature": -2.1
+          "temperature": -1.9
         },
         {
           "time": "2026-11-24T01:00:00Z",
-          "temperature": -2.3
+          "temperature": -2.2
         },
         {
           "time": "2026-11-24T02:00:00Z",
-          "temperature": -2.6
+          "temperature": -2.5
         },
         {
           "time": "2026-11-24T03:00:00Z",
-          "temperature": -2.8
+          "temperature": -2.6
         },
         {
           "time": "2026-11-24T04:00:00Z",
-          "temperature": -2.9
+          "temperature": -2.8
         },
         {
           "time": "2026-11-24T05:00:00Z",
@@ -1388,19 +1380,19 @@
         },
         {
           "time": "2026-11-24T07:00:00Z",
-          "temperature": -2.7
+          "temperature": -2.8
         },
         {
           "time": "2026-11-24T08:00:00Z",
-          "temperature": -2.2
+          "temperature": -2.3
         },
         {
           "time": "2026-11-24T09:00:00Z",
-          "temperature": -1.1
+          "temperature": -1.2
         },
         {
           "time": "2026-11-24T10:00:00Z",
-          "temperature": 0.0
+          "temperature": -0.1
         },
         {
           "time": "2026-11-24T11:00:00Z",
@@ -1408,7 +1400,7 @@
         },
         {
           "time": "2026-11-24T12:00:00Z",
-          "temperature": 1.3
+          "temperature": 1.4
         },
         {
           "time": "2026-11-24T13:00:00Z",
@@ -1416,83 +1408,83 @@
         },
         {
           "time": "2026-11-24T14:00:00Z",
-          "temperature": 1.1
+          "temperature": 1.2
         },
         {
           "time": "2026-11-24T15:00:00Z",
-          "temperature": 0.5
+          "temperature": 0.4
         },
         {
           "time": "2026-11-24T16:00:00Z",
-          "temperature": 0.0
+          "temperature": -0.2
         },
         {
           "time": "2026-11-24T17:00:00Z",
-          "temperature": -0.6
+          "temperature": -0.7
         },
         {
           "time": "2026-11-24T18:00:00Z",
-          "temperature": -1.0
-        },
-        {
-          "time": "2026-11-24T19:00:00Z",
-          "temperature": -1.4
-        },
-        {
-          "time": "2026-11-24T20:00:00Z",
-          "temperature": -1.4
-        },
-        {
-          "time": "2026-11-24T21:00:00Z",
           "temperature": -1.1
         },
         {
+          "time": "2026-11-24T19:00:00Z",
+          "temperature": -1.6
+        },
+        {
+          "time": "2026-11-24T20:00:00Z",
+          "temperature": -1.6
+        },
+        {
+          "time": "2026-11-24T21:00:00Z",
+          "temperature": -1.5
+        },
+        {
           "time": "2026-11-24T22:00:00Z",
-          "temperature": -1.4
+          "temperature": -1.7
         },
         {
           "time": "2026-11-24T23:00:00Z",
-          "temperature": -1.6
+          "temperature": -1.9
         },
         {
           "time": "2026-11-25T00:00:00Z",
-          "temperature": -1.6
+          "temperature": -1.9
         },
         {
           "time": "2026-11-25T01:00:00Z",
-          "temperature": -1.8
+          "temperature": -2.1
         },
         {
           "time": "2026-11-25T02:00:00Z",
-          "temperature": -1.8
+          "temperature": -2.0
         },
         {
           "time": "2026-11-25T03:00:00Z",
-          "temperature": -2.0
+          "temperature": -2.2
         },
         {
           "time": "2026-11-25T04:00:00Z",
-          "temperature": -2.1
+          "temperature": -2.3
         },
         {
           "time": "2026-11-25T05:00:00Z",
-          "temperature": -2.1
+          "temperature": -2.4
         },
         {
           "time": "2026-11-25T06:00:00Z",
-          "temperature": -2.0
+          "temperature": -2.3
         },
         {
           "time": "2026-11-25T07:00:00Z",
-          "temperature": -1.8
+          "temperature": -1.9
         },
         {
           "time": "2026-11-25T08:00:00Z",
-          "temperature": -1.3
+          "temperature": -1.5
         },
         {
           "time": "2026-11-25T09:00:00Z",
-          "temperature": -0.8
+          "temperature": -0.9
         },
         {
           "time": "2026-11-25T10:00:00Z",
@@ -1500,7 +1492,7 @@
         },
         {
           "time": "2026-11-25T11:00:00Z",
-          "temperature": 0.3
+          "temperature": 0.4
         },
         {
           "time": "2026-11-25T12:00:00Z",
@@ -1528,27 +1520,27 @@
         },
         {
           "time": "2026-11-25T18:00:00Z",
-          "temperature": -0.8
+          "temperature": -0.9
         },
         {
           "time": "2026-11-25T19:00:00Z",
-          "temperature": -1.0
+          "temperature": -1.1
         },
         {
           "time": "2026-11-25T20:00:00Z",
-          "temperature": -1.2
+          "temperature": -1.3
         },
         {
           "time": "2026-11-25T21:00:00Z",
-          "temperature": -1.4
+          "temperature": -1.5
         },
         {
           "time": "2026-11-25T22:00:00Z",
-          "temperature": -1.6
+          "temperature": -1.7
         },
         {
           "time": "2026-11-25T23:00:00Z",
-          "temperature": -1.6
+          "temperature": -1.8
         },
         {
           "time": "2026-11-26T00:00:00Z",
@@ -1556,7 +1548,7 @@
         },
         {
           "time": "2026-11-26T01:00:00Z",
-          "temperature": -1.8
+          "temperature": -1.7
         },
         {
           "time": "2026-11-26T02:00:00Z",
@@ -1564,31 +1556,31 @@
         },
         {
           "time": "2026-11-26T03:00:00Z",
-          "temperature": -1.8
-        },
-        {
-          "time": "2026-11-26T04:00:00Z",
-          "temperature": -1.7
-        },
-        {
-          "time": "2026-11-26T05:00:00Z",
-          "temperature": -1.8
-        },
-        {
-          "time": "2026-11-26T06:00:00Z",
           "temperature": -1.6
         },
         {
-          "time": "2026-11-26T07:00:00Z",
+          "time": "2026-11-26T04:00:00Z",
+          "temperature": -1.5
+        },
+        {
+          "time": "2026-11-26T05:00:00Z",
+          "temperature": -1.4
+        },
+        {
+          "time": "2026-11-26T06:00:00Z",
           "temperature": -1.3
         },
         {
+          "time": "2026-11-26T07:00:00Z",
+          "temperature": -1.0
+        },
+        {
           "time": "2026-11-26T08:00:00Z",
-          "temperature": -0.7
+          "temperature": -0.6
         },
         {
           "time": "2026-11-26T09:00:00Z",
-          "temperature": 0.3
+          "temperature": 0.2
         },
         {
           "time": "2026-11-26T10:00:00Z",
@@ -1600,11 +1592,11 @@
         },
         {
           "time": "2026-11-26T12:00:00Z",
-          "temperature": 2.0
+          "temperature": 1.9
         },
         {
           "time": "2026-11-26T13:00:00Z",
-          "temperature": 2.2
+          "temperature": 2.0
         },
         {
           "time": "2026-11-26T14:00:00Z",
@@ -1612,11 +1604,11 @@
         },
         {
           "time": "2026-11-26T15:00:00Z",
-          "temperature": 1.6
+          "temperature": 1.5
         },
         {
           "time": "2026-11-26T16:00:00Z",
-          "temperature": 1.2
+          "temperature": 1.1
         },
         {
           "time": "2026-11-26T17:00:00Z",
@@ -1624,15 +1616,15 @@
         },
         {
           "time": "2026-11-26T18:00:00Z",
-          "temperature": 0.3
+          "temperature": 0.2
         },
         {
           "time": "2026-11-26T19:00:00Z",
-          "temperature": 0.0
+          "temperature": -0.1
         },
         {
           "time": "2026-11-26T20:00:00Z",
-          "temperature": -0.3
+          "temperature": -0.4
         },
         {
           "time": "2026-11-26T21:00:00Z",
@@ -1644,19 +1636,27 @@
         },
         {
           "time": "2026-11-26T23:00:00Z",
-          "temperature": -1.0
+          "temperature": -1.1
         },
         {
           "time": "2026-11-27T00:00:00Z",
-          "temperature": -1.4
+          "temperature": -1.6
         },
         {
           "time": "2026-11-27T01:00:00Z",
-          "temperature": -1.4
+          "temperature": -1.9
         },
         {
           "time": "2026-11-27T02:00:00Z",
-          "temperature": -1.7
+          "temperature": -2.1
+        },
+        {
+          "time": "2026-11-27T03:00:00Z",
+          "temperature": -2.3
+        },
+        {
+          "time": "2026-11-27T04:00:00Z",
+          "temperature": -2.4
         }
       ],
       "errors": []
@@ -1665,15 +1665,15 @@
       "code": "DUS",
       "icao": "EDDL",
       "city": "Düsseldorf",
-      "currentTemp": 0.1,
-      "currentTempTime": "2026-11-23T02:30:00Z",
-      "currentTempAgeHours": 0.2,
-      "min24h": -3.2,
-      "min24hTime": "2026-11-24T02:00:00Z",
-      "nightMin": -3.2,
-      "nightMinTime": "2026-11-24T02:00:00Z",
-      "forecastStart": "2026-11-23T03:00:00Z",
-      "forecastEnd": "2026-11-27T02:00:00Z",
+      "currentTemp": -1.0,
+      "currentTempTime": "2026-11-23T04:45:00Z",
+      "currentTempAgeHours": 0.1,
+      "min24h": -2.8,
+      "min24hTime": "2026-11-23T05:00:00Z",
+      "nightMin": -2.8,
+      "nightMinTime": "2026-11-23T05:00:00Z",
+      "forecastStart": "2026-11-23T05:00:00Z",
+      "forecastEnd": "2026-11-27T04:00:00Z",
       "gasPathCleaning": "NO GO",
       "weatherStatus": "WARNING",
       "measurementStation": {
@@ -1689,52 +1689,44 @@
       },
       "hourly": [
         {
-          "time": "2026-11-23T03:00:00Z",
-          "temperature": -1.2
-        },
-        {
-          "time": "2026-11-23T04:00:00Z",
-          "temperature": -1.3
-        },
-        {
           "time": "2026-11-23T05:00:00Z",
-          "temperature": -1.5
+          "temperature": -2.8
         },
         {
           "time": "2026-11-23T06:00:00Z",
-          "temperature": -1.5
+          "temperature": -2.7
         },
         {
           "time": "2026-11-23T07:00:00Z",
-          "temperature": -1.3
+          "temperature": -2.2
         },
         {
           "time": "2026-11-23T08:00:00Z",
-          "temperature": -0.7
+          "temperature": -1.3
         },
         {
           "time": "2026-11-23T09:00:00Z",
-          "temperature": 0.2
+          "temperature": 0.0
         },
         {
           "time": "2026-11-23T10:00:00Z",
-          "temperature": 1.2
+          "temperature": 1.3
         },
         {
           "time": "2026-11-23T11:00:00Z",
-          "temperature": 2.4
+          "temperature": 2.5
         },
         {
           "time": "2026-11-23T12:00:00Z",
-          "temperature": 3.1
+          "temperature": 3.2
         },
         {
           "time": "2026-11-23T13:00:00Z",
-          "temperature": 3.4
+          "temperature": 3.5
         },
         {
           "time": "2026-11-23T14:00:00Z",
-          "temperature": 3.2
+          "temperature": 3.4
         },
         {
           "time": "2026-11-23T15:00:00Z",
@@ -1742,99 +1734,99 @@
         },
         {
           "time": "2026-11-23T16:00:00Z",
-          "temperature": 1.6
+          "temperature": 1.7
         },
         {
           "time": "2026-11-23T17:00:00Z",
-          "temperature": 0.5
+          "temperature": 0.7
         },
         {
           "time": "2026-11-23T18:00:00Z",
-          "temperature": -0.3
+          "temperature": -0.1
         },
         {
           "time": "2026-11-23T19:00:00Z",
-          "temperature": -1.2
+          "temperature": -0.9
         },
         {
           "time": "2026-11-23T20:00:00Z",
-          "temperature": -1.7
+          "temperature": -1.4
         },
         {
           "time": "2026-11-23T21:00:00Z",
-          "temperature": -2.0
+          "temperature": -1.7
         },
         {
           "time": "2026-11-23T22:00:00Z",
-          "temperature": -2.5
+          "temperature": -2.1
         },
         {
           "time": "2026-11-23T23:00:00Z",
-          "temperature": -2.8
+          "temperature": -2.4
         },
         {
           "time": "2026-11-24T00:00:00Z",
-          "temperature": -2.9
+          "temperature": -2.5
         },
         {
           "time": "2026-11-24T01:00:00Z",
-          "temperature": -3.1
+          "temperature": -2.6
         },
         {
           "time": "2026-11-24T02:00:00Z",
-          "temperature": -3.2
+          "temperature": -2.7
         },
         {
           "time": "2026-11-24T03:00:00Z",
-          "temperature": -3.2
-        },
-        {
-          "time": "2026-11-24T04:00:00Z",
-          "temperature": -3.2
-        },
-        {
-          "time": "2026-11-24T05:00:00Z",
-          "temperature": -3.2
-        },
-        {
-          "time": "2026-11-24T06:00:00Z",
-          "temperature": -3.1
-        },
-        {
-          "time": "2026-11-24T07:00:00Z",
           "temperature": -2.8
         },
         {
+          "time": "2026-11-24T04:00:00Z",
+          "temperature": -2.7
+        },
+        {
+          "time": "2026-11-24T05:00:00Z",
+          "temperature": -2.6
+        },
+        {
+          "time": "2026-11-24T06:00:00Z",
+          "temperature": -2.6
+        },
+        {
+          "time": "2026-11-24T07:00:00Z",
+          "temperature": -2.2
+        },
+        {
           "time": "2026-11-24T08:00:00Z",
-          "temperature": -2.0
+          "temperature": -1.5
         },
         {
           "time": "2026-11-24T09:00:00Z",
-          "temperature": -0.5
+          "temperature": -0.3
         },
         {
           "time": "2026-11-24T10:00:00Z",
-          "temperature": 0.9
+          "temperature": 1.0
         },
         {
           "time": "2026-11-24T11:00:00Z",
-          "temperature": 2.4
+          "temperature": 2.3
         },
         {
           "time": "2026-11-24T12:00:00Z",
-          "temperature": 3.2
+          "temperature": 3.1
         },
         {
           "time": "2026-11-24T13:00:00Z",
-          "temperature": 3.7
+          "temperature": 3.6
         },
         {
           "time": "2026-11-24T14:00:00Z",
-          "temperature": 3.8
+          "temperature": 3.7
         },
         {
           "time": "2026-11-24T15:00:00Z",
-          "temperature": 3.1
+          "temperature": 3.0
         },
         {
           "time": "2026-11-24T16:00:00Z",
@@ -1846,7 +1838,7 @@
         },
         {
           "time": "2026-11-24T18:00:00Z",
-          "temperature": 0.4
+          "temperature": 0.3
         },
         {
           "time": "2026-11-24T19:00:00Z",
@@ -1854,19 +1846,19 @@
         },
         {
           "time": "2026-11-24T20:00:00Z",
-          "temperature": -0.5
+          "temperature": -0.6
         },
         {
           "time": "2026-11-24T21:00:00Z",
-          "temperature": -0.8
-        },
-        {
-          "time": "2026-11-24T22:00:00Z",
           "temperature": -1.0
         },
         {
+          "time": "2026-11-24T22:00:00Z",
+          "temperature": -1.2
+        },
+        {
           "time": "2026-11-24T23:00:00Z",
-          "temperature": -1.3
+          "temperature": -1.4
         },
         {
           "time": "2026-11-25T00:00:00Z",
@@ -1878,11 +1870,11 @@
         },
         {
           "time": "2026-11-25T02:00:00Z",
-          "temperature": -1.7
+          "temperature": -1.9
         },
         {
           "time": "2026-11-25T03:00:00Z",
-          "temperature": -1.9
+          "temperature": -2.0
         },
         {
           "time": "2026-11-25T04:00:00Z",
@@ -1890,51 +1882,51 @@
         },
         {
           "time": "2026-11-25T05:00:00Z",
-          "temperature": -1.9
+          "temperature": -2.1
         },
         {
           "time": "2026-11-25T06:00:00Z",
-          "temperature": -1.9
+          "temperature": -2.0
         },
         {
           "time": "2026-11-25T07:00:00Z",
-          "temperature": -1.8
+          "temperature": -2.0
         },
         {
           "time": "2026-11-25T08:00:00Z",
-          "temperature": -1.3
+          "temperature": -1.5
         },
         {
           "time": "2026-11-25T09:00:00Z",
-          "temperature": -0.3
+          "temperature": -0.6
         },
         {
           "time": "2026-11-25T10:00:00Z",
-          "temperature": 0.8
+          "temperature": 0.6
         },
         {
           "time": "2026-11-25T11:00:00Z",
-          "temperature": 1.8
+          "temperature": 1.5
         },
         {
           "time": "2026-11-25T12:00:00Z",
-          "temperature": 2.5
+          "temperature": 2.3
         },
         {
           "time": "2026-11-25T13:00:00Z",
-          "temperature": 2.8
-        },
-        {
-          "time": "2026-11-25T14:00:00Z",
           "temperature": 2.5
         },
         {
+          "time": "2026-11-25T14:00:00Z",
+          "temperature": 2.2
+        },
+        {
           "time": "2026-11-25T15:00:00Z",
-          "temperature": 2.0
+          "temperature": 1.7
         },
         {
           "time": "2026-11-25T16:00:00Z",
-          "temperature": 1.1
+          "temperature": 1.0
         },
         {
           "time": "2026-11-25T17:00:00Z",
@@ -1942,75 +1934,75 @@
         },
         {
           "time": "2026-11-25T18:00:00Z",
-          "temperature": -0.4
+          "temperature": -0.3
         },
         {
           "time": "2026-11-25T19:00:00Z",
-          "temperature": -0.9
+          "temperature": -0.8
         },
         {
           "time": "2026-11-25T20:00:00Z",
-          "temperature": -1.3
+          "temperature": -1.2
         },
         {
           "time": "2026-11-25T21:00:00Z",
-          "temperature": -1.7
+          "temperature": -1.6
         },
         {
           "time": "2026-11-25T22:00:00Z",
-          "temperature": -2.1
+          "temperature": -1.9
         },
         {
           "time": "2026-11-25T23:00:00Z",
-          "temperature": -2.5
+          "temperature": -2.4
         },
         {
           "time": "2026-11-26T00:00:00Z",
-          "temperature": -2.7
+          "temperature": -2.8
         },
         {
           "time": "2026-11-26T01:00:00Z",
-          "temperature": -3.0
-        },
-        {
-          "time": "2026-11-26T02:00:00Z",
           "temperature": -3.1
         },
         {
+          "time": "2026-11-26T02:00:00Z",
+          "temperature": -3.4
+        },
+        {
           "time": "2026-11-26T03:00:00Z",
-          "temperature": -3.2
-        },
-        {
-          "time": "2026-11-26T04:00:00Z",
-          "temperature": -3.3
-        },
-        {
-          "time": "2026-11-26T05:00:00Z",
-          "temperature": -3.3
-        },
-        {
-          "time": "2026-11-26T06:00:00Z",
           "temperature": -3.6
         },
         {
+          "time": "2026-11-26T04:00:00Z",
+          "temperature": -3.7
+        },
+        {
+          "time": "2026-11-26T05:00:00Z",
+          "temperature": -3.6
+        },
+        {
+          "time": "2026-11-26T06:00:00Z",
+          "temperature": -3.8
+        },
+        {
           "time": "2026-11-26T07:00:00Z",
-          "temperature": -3.2
+          "temperature": -3.6
         },
         {
           "time": "2026-11-26T08:00:00Z",
-          "temperature": -2.7
+          "temperature": -3.0
         },
         {
           "time": "2026-11-26T09:00:00Z",
-          "temperature": -1.8
+          "temperature": -2.0
         },
         {
           "time": "2026-11-26T10:00:00Z",
-          "temperature": -0.9
+          "temperature": -1.1
         },
         {
           "time": "2026-11-26T11:00:00Z",
-          "temperature": 0.0
+          "temperature": -0.2
         },
         {
           "time": "2026-11-26T12:00:00Z",
@@ -2018,19 +2010,19 @@
         },
         {
           "time": "2026-11-26T13:00:00Z",
-          "temperature": 0.3
+          "temperature": 0.4
         },
         {
           "time": "2026-11-26T14:00:00Z",
-          "temperature": 0.2
+          "temperature": 0.3
         },
         {
           "time": "2026-11-26T15:00:00Z",
-          "temperature": 0.0
+          "temperature": 0.1
         },
         {
           "time": "2026-11-26T16:00:00Z",
-          "temperature": -0.4
+          "temperature": -0.3
         },
         {
           "time": "2026-11-26T17:00:00Z",
@@ -2042,11 +2034,11 @@
         },
         {
           "time": "2026-11-26T19:00:00Z",
-          "temperature": -1.1
+          "temperature": -1.2
         },
         {
           "time": "2026-11-26T20:00:00Z",
-          "temperature": -1.5
+          "temperature": -1.4
         },
         {
           "time": "2026-11-26T21:00:00Z",
@@ -2054,7 +2046,7 @@
         },
         {
           "time": "2026-11-26T22:00:00Z",
-          "temperature": -2.0
+          "temperature": -1.9
         },
         {
           "time": "2026-11-26T23:00:00Z",
@@ -2066,10 +2058,18 @@
         },
         {
           "time": "2026-11-27T01:00:00Z",
-          "temperature": -2.7
+          "temperature": -2.6
         },
         {
           "time": "2026-11-27T02:00:00Z",
+          "temperature": -2.9
+        },
+        {
+          "time": "2026-11-27T03:00:00Z",
+          "temperature": -3.0
+        },
+        {
+          "time": "2026-11-27T04:00:00Z",
           "temperature": -3.0
         }
       ],
@@ -2079,15 +2079,15 @@
       "code": "STR",
       "icao": "EDDS",
       "city": "Stuttgart",
-      "currentTemp": -1.2,
-      "currentTempTime": "2026-11-23T02:30:00Z",
-      "currentTempAgeHours": 0.2,
-      "min24h": -3.7,
-      "min24hTime": "2026-11-24T02:00:00Z",
-      "nightMin": -3.7,
-      "nightMinTime": "2026-11-24T02:00:00Z",
-      "forecastStart": "2026-11-23T03:00:00Z",
-      "forecastEnd": "2026-11-27T02:00:00Z",
+      "currentTemp": -2.7,
+      "currentTempTime": "2026-11-23T04:45:00Z",
+      "currentTempAgeHours": 0.1,
+      "min24h": -4.8,
+      "min24hTime": "2026-11-24T04:00:00Z",
+      "nightMin": -4.8,
+      "nightMinTime": "2026-11-24T04:00:00Z",
+      "forecastStart": "2026-11-23T05:00:00Z",
+      "forecastEnd": "2026-11-27T04:00:00Z",
       "gasPathCleaning": "NO GO",
       "weatherStatus": "WARNING",
       "measurementStation": {
@@ -2103,172 +2103,164 @@
       },
       "hourly": [
         {
-          "time": "2026-11-23T03:00:00Z",
-          "temperature": -0.4
-        },
-        {
-          "time": "2026-11-23T04:00:00Z",
-          "temperature": -0.7
-        },
-        {
           "time": "2026-11-23T05:00:00Z",
-          "temperature": -0.9
-        },
-        {
-          "time": "2026-11-23T06:00:00Z",
-          "temperature": -0.8
-        },
-        {
-          "time": "2026-11-23T07:00:00Z",
-          "temperature": -0.9
-        },
-        {
-          "time": "2026-11-23T08:00:00Z",
-          "temperature": -0.4
-        },
-        {
-          "time": "2026-11-23T09:00:00Z",
-          "temperature": 0.0
-        },
-        {
-          "time": "2026-11-23T10:00:00Z",
-          "temperature": 0.3
-        },
-        {
-          "time": "2026-11-23T11:00:00Z",
-          "temperature": 0.9
-        },
-        {
-          "time": "2026-11-23T12:00:00Z",
-          "temperature": 1.3
-        },
-        {
-          "time": "2026-11-23T13:00:00Z",
-          "temperature": 1.4
-        },
-        {
-          "time": "2026-11-23T14:00:00Z",
-          "temperature": 1.2
-        },
-        {
-          "time": "2026-11-23T15:00:00Z",
-          "temperature": 0.9
-        },
-        {
-          "time": "2026-11-23T16:00:00Z",
-          "temperature": 0.4
-        },
-        {
-          "time": "2026-11-23T17:00:00Z",
-          "temperature": -0.2
-        },
-        {
-          "time": "2026-11-23T18:00:00Z",
-          "temperature": -0.6
-        },
-        {
-          "time": "2026-11-23T19:00:00Z",
-          "temperature": -1.1
-        },
-        {
-          "time": "2026-11-23T20:00:00Z",
-          "temperature": -1.5
-        },
-        {
-          "time": "2026-11-23T21:00:00Z",
-          "temperature": -1.9
-        },
-        {
-          "time": "2026-11-23T22:00:00Z",
-          "temperature": -2.4
-        },
-        {
-          "time": "2026-11-23T23:00:00Z",
-          "temperature": -2.6
-        },
-        {
-          "time": "2026-11-24T00:00:00Z",
-          "temperature": -3.0
-        },
-        {
-          "time": "2026-11-24T01:00:00Z",
-          "temperature": -3.4
-        },
-        {
-          "time": "2026-11-24T02:00:00Z",
-          "temperature": -3.7
-        },
-        {
-          "time": "2026-11-24T03:00:00Z",
-          "temperature": -4.2
-        },
-        {
-          "time": "2026-11-24T04:00:00Z",
-          "temperature": -4.4
-        },
-        {
-          "time": "2026-11-24T05:00:00Z",
-          "temperature": -4.6
-        },
-        {
-          "time": "2026-11-24T06:00:00Z",
-          "temperature": -4.5
-        },
-        {
-          "time": "2026-11-24T07:00:00Z",
-          "temperature": -4.3
-        },
-        {
-          "time": "2026-11-24T08:00:00Z",
-          "temperature": -3.3
-        },
-        {
-          "time": "2026-11-24T09:00:00Z",
-          "temperature": -1.9
-        },
-        {
-          "time": "2026-11-24T10:00:00Z",
-          "temperature": -0.6
-        },
-        {
-          "time": "2026-11-24T11:00:00Z",
-          "temperature": 0.6
-        },
-        {
-          "time": "2026-11-24T12:00:00Z",
-          "temperature": 1.7
-        },
-        {
-          "time": "2026-11-24T13:00:00Z",
-          "temperature": 1.9
-        },
-        {
-          "time": "2026-11-24T14:00:00Z",
-          "temperature": 1.9
-        },
-        {
-          "time": "2026-11-24T15:00:00Z",
-          "temperature": 1.1
-        },
-        {
-          "time": "2026-11-24T16:00:00Z",
-          "temperature": 0.2
-        },
-        {
-          "time": "2026-11-24T17:00:00Z",
-          "temperature": -0.7
-        },
-        {
-          "time": "2026-11-24T18:00:00Z",
-          "temperature": -1.4
-        },
-        {
-          "time": "2026-11-24T19:00:00Z",
           "temperature": -2.0
         },
         {
-          "time": "2026-11-24T20:00:00Z",
+          "time": "2026-11-23T06:00:00Z",
+          "temperature": -1.9
+        },
+        {
+          "time": "2026-11-23T07:00:00Z",
+          "temperature": -1.7
+        },
+        {
+          "time": "2026-11-23T08:00:00Z",
+          "temperature": -1.3
+        },
+        {
+          "time": "2026-11-23T09:00:00Z",
+          "temperature": -0.7
+        },
+        {
+          "time": "2026-11-23T10:00:00Z",
+          "temperature": -0.1
+        },
+        {
+          "time": "2026-11-23T11:00:00Z",
+          "temperature": 0.4
+        },
+        {
+          "time": "2026-11-23T12:00:00Z",
+          "temperature": 0.7
+        },
+        {
+          "time": "2026-11-23T13:00:00Z",
+          "temperature": 0.9
+        },
+        {
+          "time": "2026-11-23T14:00:00Z",
+          "temperature": 0.7
+        },
+        {
+          "time": "2026-11-23T15:00:00Z",
+          "temperature": 0.5
+        },
+        {
+          "time": "2026-11-23T16:00:00Z",
+          "temperature": 0.0
+        },
+        {
+          "time": "2026-11-23T17:00:00Z",
+          "temperature": -0.6
+        },
+        {
+          "time": "2026-11-23T18:00:00Z",
+          "temperature": -1.0
+        },
+        {
+          "time": "2026-11-23T19:00:00Z",
+          "temperature": -1.4
+        },
+        {
+          "time": "2026-11-23T20:00:00Z",
+          "temperature": -1.8
+        },
+        {
+          "time": "2026-11-23T21:00:00Z",
+          "temperature": -2.3
+        },
+        {
+          "time": "2026-11-23T22:00:00Z",
+          "temperature": -2.9
+        },
+        {
+          "time": "2026-11-23T23:00:00Z",
+          "temperature": -3.2
+        },
+        {
+          "time": "2026-11-24T00:00:00Z",
+          "temperature": -3.6
+        },
+        {
+          "time": "2026-11-24T01:00:00Z",
+          "temperature": -3.9
+        },
+        {
+          "time": "2026-11-24T02:00:00Z",
+          "temperature": -4.3
+        },
+        {
+          "time": "2026-11-24T03:00:00Z",
+          "temperature": -4.5
+        },
+        {
+          "time": "2026-11-24T04:00:00Z",
+          "temperature": -4.8
+        },
+        {
+          "time": "2026-11-24T05:00:00Z",
+          "temperature": -4.9
+        },
+        {
+          "time": "2026-11-24T06:00:00Z",
+          "temperature": -4.9
+        },
+        {
+          "time": "2026-11-24T07:00:00Z",
+          "temperature": -4.6
+        },
+        {
+          "time": "2026-11-24T08:00:00Z",
+          "temperature": -3.8
+        },
+        {
+          "time": "2026-11-24T09:00:00Z",
+          "temperature": -2.5
+        },
+        {
+          "time": "2026-11-24T10:00:00Z",
+          "temperature": -1.1
+        },
+        {
+          "time": "2026-11-24T11:00:00Z",
+          "temperature": 0.3
+        },
+        {
+          "time": "2026-11-24T12:00:00Z",
+          "temperature": 1.3
+        },
+        {
+          "time": "2026-11-24T13:00:00Z",
+          "temperature": 1.8
+        },
+        {
+          "time": "2026-11-24T14:00:00Z",
+          "temperature": 1.6
+        },
+        {
+          "time": "2026-11-24T15:00:00Z",
+          "temperature": 0.9
+        },
+        {
+          "time": "2026-11-24T16:00:00Z",
+          "temperature": 0.0
+        },
+        {
+          "time": "2026-11-24T17:00:00Z",
+          "temperature": -0.8
+        },
+        {
+          "time": "2026-11-24T18:00:00Z",
+          "temperature": -1.7
+        },
+        {
+          "time": "2026-11-24T19:00:00Z",
           "temperature": -2.1
+        },
+        {
+          "time": "2026-11-24T20:00:00Z",
+          "temperature": -2.2
         },
         {
           "time": "2026-11-24T21:00:00Z",
@@ -2280,43 +2272,43 @@
         },
         {
           "time": "2026-11-24T23:00:00Z",
-          "temperature": -2.7
+          "temperature": -2.6
         },
         {
           "time": "2026-11-25T00:00:00Z",
-          "temperature": -3.0
+          "temperature": -2.7
         },
         {
           "time": "2026-11-25T01:00:00Z",
-          "temperature": -3.2
-        },
-        {
-          "time": "2026-11-25T02:00:00Z",
-          "temperature": -3.3
-        },
-        {
-          "time": "2026-11-25T03:00:00Z",
-          "temperature": -3.4
-        },
-        {
-          "time": "2026-11-25T04:00:00Z",
-          "temperature": -3.3
-        },
-        {
-          "time": "2026-11-25T05:00:00Z",
-          "temperature": -3.0
-        },
-        {
-          "time": "2026-11-25T06:00:00Z",
           "temperature": -2.8
         },
         {
+          "time": "2026-11-25T02:00:00Z",
+          "temperature": -2.8
+        },
+        {
+          "time": "2026-11-25T03:00:00Z",
+          "temperature": -2.9
+        },
+        {
+          "time": "2026-11-25T04:00:00Z",
+          "temperature": -2.9
+        },
+        {
+          "time": "2026-11-25T05:00:00Z",
+          "temperature": -2.9
+        },
+        {
+          "time": "2026-11-25T06:00:00Z",
+          "temperature": -2.6
+        },
+        {
           "time": "2026-11-25T07:00:00Z",
-          "temperature": -2.3
+          "temperature": -2.2
         },
         {
           "time": "2026-11-25T08:00:00Z",
-          "temperature": -1.7
+          "temperature": -1.6
         },
         {
           "time": "2026-11-25T09:00:00Z",
@@ -2324,7 +2316,7 @@
         },
         {
           "time": "2026-11-25T10:00:00Z",
-          "temperature": 0.0
+          "temperature": -0.2
         },
         {
           "time": "2026-11-25T11:00:00Z",
@@ -2352,139 +2344,147 @@
         },
         {
           "time": "2026-11-25T17:00:00Z",
-          "temperature": -0.2
+          "temperature": -0.1
         },
         {
           "time": "2026-11-25T18:00:00Z",
-          "temperature": -0.2
+          "temperature": 0.1
         },
         {
           "time": "2026-11-25T19:00:00Z",
-          "temperature": -0.1
+          "temperature": 0.1
         },
         {
           "time": "2026-11-25T20:00:00Z",
-          "temperature": -0.2
+          "temperature": 0.1
         },
         {
           "time": "2026-11-25T21:00:00Z",
-          "temperature": -0.2
+          "temperature": 0.0
         },
         {
           "time": "2026-11-25T22:00:00Z",
-          "temperature": -0.3
-        },
-        {
-          "time": "2026-11-25T23:00:00Z",
-          "temperature": -0.5
-        },
-        {
-          "time": "2026-11-26T00:00:00Z",
-          "temperature": -0.8
-        },
-        {
-          "time": "2026-11-26T01:00:00Z",
-          "temperature": -1.1
-        },
-        {
-          "time": "2026-11-26T02:00:00Z",
-          "temperature": -1.1
-        },
-        {
-          "time": "2026-11-26T03:00:00Z",
-          "temperature": -1.2
-        },
-        {
-          "time": "2026-11-26T04:00:00Z",
-          "temperature": -1.4
-        },
-        {
-          "time": "2026-11-26T05:00:00Z",
-          "temperature": -1.3
-        },
-        {
-          "time": "2026-11-26T06:00:00Z",
-          "temperature": -1.6
-        },
-        {
-          "time": "2026-11-26T07:00:00Z",
-          "temperature": -1.6
-        },
-        {
-          "time": "2026-11-26T08:00:00Z",
-          "temperature": -1.2
-        },
-        {
-          "time": "2026-11-26T09:00:00Z",
-          "temperature": -1.0
-        },
-        {
-          "time": "2026-11-26T10:00:00Z",
-          "temperature": -0.7
-        },
-        {
-          "time": "2026-11-26T11:00:00Z",
-          "temperature": -0.4
-        },
-        {
-          "time": "2026-11-26T12:00:00Z",
           "temperature": -0.1
         },
         {
-          "time": "2026-11-26T13:00:00Z",
+          "time": "2026-11-25T23:00:00Z",
           "temperature": -0.2
         },
         {
-          "time": "2026-11-26T14:00:00Z",
-          "temperature": -0.4
+          "time": "2026-11-26T00:00:00Z",
+          "temperature": -0.5
         },
         {
-          "time": "2026-11-26T15:00:00Z",
-          "temperature": -0.6
-        },
-        {
-          "time": "2026-11-26T16:00:00Z",
-          "temperature": -0.6
-        },
-        {
-          "time": "2026-11-26T17:00:00Z",
+          "time": "2026-11-26T01:00:00Z",
           "temperature": -0.7
         },
         {
-          "time": "2026-11-26T18:00:00Z",
-          "temperature": -0.8
+          "time": "2026-11-26T02:00:00Z",
+          "temperature": -0.9
         },
         {
-          "time": "2026-11-26T19:00:00Z",
-          "temperature": -0.8
-        },
-        {
-          "time": "2026-11-26T20:00:00Z",
-          "temperature": -0.8
-        },
-        {
-          "time": "2026-11-26T21:00:00Z",
-          "temperature": -1.0
-        },
-        {
-          "time": "2026-11-26T22:00:00Z",
+          "time": "2026-11-26T03:00:00Z",
           "temperature": -1.1
         },
         {
-          "time": "2026-11-26T23:00:00Z",
+          "time": "2026-11-26T04:00:00Z",
           "temperature": -1.3
         },
         {
-          "time": "2026-11-27T00:00:00Z",
+          "time": "2026-11-26T05:00:00Z",
           "temperature": -1.4
         },
         {
-          "time": "2026-11-27T01:00:00Z",
+          "time": "2026-11-26T06:00:00Z",
+          "temperature": -1.7
+        },
+        {
+          "time": "2026-11-26T07:00:00Z",
+          "temperature": -1.7
+        },
+        {
+          "time": "2026-11-26T08:00:00Z",
           "temperature": -1.4
+        },
+        {
+          "time": "2026-11-26T09:00:00Z",
+          "temperature": -1.1
+        },
+        {
+          "time": "2026-11-26T10:00:00Z",
+          "temperature": -0.9
+        },
+        {
+          "time": "2026-11-26T11:00:00Z",
+          "temperature": -0.6
+        },
+        {
+          "time": "2026-11-26T12:00:00Z",
+          "temperature": -0.3
+        },
+        {
+          "time": "2026-11-26T13:00:00Z",
+          "temperature": -0.5
+        },
+        {
+          "time": "2026-11-26T14:00:00Z",
+          "temperature": -0.6
+        },
+        {
+          "time": "2026-11-26T15:00:00Z",
+          "temperature": -0.8
+        },
+        {
+          "time": "2026-11-26T16:00:00Z",
+          "temperature": -0.8
+        },
+        {
+          "time": "2026-11-26T17:00:00Z",
+          "temperature": -0.8
+        },
+        {
+          "time": "2026-11-26T18:00:00Z",
+          "temperature": -0.7
+        },
+        {
+          "time": "2026-11-26T19:00:00Z",
+          "temperature": -0.7
+        },
+        {
+          "time": "2026-11-26T20:00:00Z",
+          "temperature": -0.7
+        },
+        {
+          "time": "2026-11-26T21:00:00Z",
+          "temperature": -0.9
+        },
+        {
+          "time": "2026-11-26T22:00:00Z",
+          "temperature": -1.0
+        },
+        {
+          "time": "2026-11-26T23:00:00Z",
+          "temperature": -1.2
+        },
+        {
+          "time": "2026-11-27T00:00:00Z",
+          "temperature": -1.1
+        },
+        {
+          "time": "2026-11-27T01:00:00Z",
+          "temperature": -1.3
         },
         {
           "time": "2026-11-27T02:00:00Z",
           "temperature": -1.4
+        },
+        {
+          "time": "2026-11-27T03:00:00Z",
+          "temperature": -1.5
+        },
+        {
+          "time": "2026-11-27T04:00:00Z",
+          "temperature": -1.5
         }
       ],
       "errors": []
@@ -2493,15 +2493,15 @@
       "code": "CGN",
       "icao": "EDDK",
       "city": "Köln/Bonn",
-      "currentTemp": -2.3,
-      "currentTempTime": "2026-11-23T02:30:00Z",
-      "currentTempAgeHours": 0.2,
-      "min24h": -4.0,
-      "min24hTime": "2026-11-24T02:00:00Z",
-      "nightMin": -4.0,
-      "nightMinTime": "2026-11-24T02:00:00Z",
-      "forecastStart": "2026-11-23T03:00:00Z",
-      "forecastEnd": "2026-11-27T02:00:00Z",
+      "currentTemp": -2.2,
+      "currentTempTime": "2026-11-23T04:45:00Z",
+      "currentTempAgeHours": 0.1,
+      "min24h": -3.6,
+      "min24hTime": "2026-11-24T04:00:00Z",
+      "nightMin": -3.6,
+      "nightMinTime": "2026-11-24T04:00:00Z",
+      "forecastStart": "2026-11-23T05:00:00Z",
+      "forecastEnd": "2026-11-27T04:00:00Z",
       "gasPathCleaning": "NO GO",
       "weatherStatus": "WARNING",
       "measurementStation": {
@@ -2517,24 +2517,16 @@
       },
       "hourly": [
         {
-          "time": "2026-11-23T03:00:00Z",
-          "temperature": -1.8
-        },
-        {
-          "time": "2026-11-23T04:00:00Z",
-          "temperature": -1.9
-        },
-        {
           "time": "2026-11-23T05:00:00Z",
-          "temperature": -2.2
+          "temperature": -2.5
         },
         {
           "time": "2026-11-23T06:00:00Z",
-          "temperature": -2.2
+          "temperature": -2.4
         },
         {
           "time": "2026-11-23T07:00:00Z",
-          "temperature": -2.2
+          "temperature": -2.3
         },
         {
           "time": "2026-11-23T08:00:00Z",
@@ -2542,31 +2534,31 @@
         },
         {
           "time": "2026-11-23T09:00:00Z",
-          "temperature": -0.6
+          "temperature": -0.8
         },
         {
           "time": "2026-11-23T10:00:00Z",
-          "temperature": 0.6
+          "temperature": 0.3
         },
         {
           "time": "2026-11-23T11:00:00Z",
-          "temperature": 1.7
+          "temperature": 1.3
         },
         {
           "time": "2026-11-23T12:00:00Z",
-          "temperature": 2.3
+          "temperature": 1.9
         },
         {
           "time": "2026-11-23T13:00:00Z",
-          "temperature": 2.7
+          "temperature": 2.2
         },
         {
           "time": "2026-11-23T14:00:00Z",
-          "temperature": 2.5
+          "temperature": 2.2
         },
         {
           "time": "2026-11-23T15:00:00Z",
-          "temperature": 1.9
+          "temperature": 1.7
         },
         {
           "time": "2026-11-23T16:00:00Z",
@@ -2574,67 +2566,67 @@
         },
         {
           "time": "2026-11-23T17:00:00Z",
-          "temperature": -0.1
+          "temperature": -0.3
         },
         {
           "time": "2026-11-23T18:00:00Z",
-          "temperature": -1.3
+          "temperature": -1.2
         },
         {
           "time": "2026-11-23T19:00:00Z",
-          "temperature": -2.2
+          "temperature": -2.0
         },
         {
           "time": "2026-11-23T20:00:00Z",
-          "temperature": -2.8
+          "temperature": -2.5
         },
         {
           "time": "2026-11-23T21:00:00Z",
-          "temperature": -3.2
+          "temperature": -2.9
         },
         {
           "time": "2026-11-23T22:00:00Z",
-          "temperature": -3.4
+          "temperature": -3.1
         },
         {
           "time": "2026-11-23T23:00:00Z",
-          "temperature": -3.6
+          "temperature": -3.2
         },
         {
           "time": "2026-11-24T00:00:00Z",
-          "temperature": -3.7
+          "temperature": -3.1
         },
         {
           "time": "2026-11-24T01:00:00Z",
-          "temperature": -3.9
+          "temperature": -3.2
         },
         {
           "time": "2026-11-24T02:00:00Z",
-          "temperature": -4.0
+          "temperature": -3.3
         },
         {
           "time": "2026-11-24T03:00:00Z",
-          "temperature": -4.1
+          "temperature": -3.4
         },
         {
           "time": "2026-11-24T04:00:00Z",
-          "temperature": -4.1
+          "temperature": -3.6
         },
         {
           "time": "2026-11-24T05:00:00Z",
-          "temperature": -4.2
-        },
-        {
-          "time": "2026-11-24T06:00:00Z",
-          "temperature": -4.0
-        },
-        {
-          "time": "2026-11-24T07:00:00Z",
           "temperature": -3.5
         },
         {
+          "time": "2026-11-24T06:00:00Z",
+          "temperature": -3.5
+        },
+        {
+          "time": "2026-11-24T07:00:00Z",
+          "temperature": -3.1
+        },
+        {
           "time": "2026-11-24T08:00:00Z",
-          "temperature": -2.5
+          "temperature": -2.3
         },
         {
           "time": "2026-11-24T09:00:00Z",
@@ -2642,23 +2634,23 @@
         },
         {
           "time": "2026-11-24T10:00:00Z",
-          "temperature": 0.4
+          "temperature": 0.2
         },
         {
           "time": "2026-11-24T11:00:00Z",
-          "temperature": 1.9
+          "temperature": 1.6
         },
         {
           "time": "2026-11-24T12:00:00Z",
-          "temperature": 2.6
+          "temperature": 2.4
         },
         {
           "time": "2026-11-24T13:00:00Z",
-          "temperature": 3.2
+          "temperature": 3.0
         },
         {
           "time": "2026-11-24T14:00:00Z",
-          "temperature": 3.0
+          "temperature": 2.8
         },
         {
           "time": "2026-11-24T15:00:00Z",
@@ -2666,11 +2658,11 @@
         },
         {
           "time": "2026-11-24T16:00:00Z",
-          "temperature": 1.6
+          "temperature": 1.5
         },
         {
           "time": "2026-11-24T17:00:00Z",
-          "temperature": 0.8
+          "temperature": 1.0
         },
         {
           "time": "2026-11-24T18:00:00Z",
@@ -2682,19 +2674,19 @@
         },
         {
           "time": "2026-11-24T20:00:00Z",
-          "temperature": -0.1
-        },
-        {
-          "time": "2026-11-24T21:00:00Z",
           "temperature": -0.3
         },
         {
-          "time": "2026-11-24T22:00:00Z",
+          "time": "2026-11-24T21:00:00Z",
           "temperature": -0.5
         },
         {
+          "time": "2026-11-24T22:00:00Z",
+          "temperature": -0.7
+        },
+        {
           "time": "2026-11-24T23:00:00Z",
-          "temperature": -0.8
+          "temperature": -0.9
         },
         {
           "time": "2026-11-25T00:00:00Z",
@@ -2702,31 +2694,31 @@
         },
         {
           "time": "2026-11-25T01:00:00Z",
-          "temperature": -1.1
+          "temperature": -1.2
         },
         {
           "time": "2026-11-25T02:00:00Z",
-          "temperature": -1.1
+          "temperature": -1.2
         },
         {
           "time": "2026-11-25T03:00:00Z",
-          "temperature": -1.3
+          "temperature": -1.2
         },
         {
           "time": "2026-11-25T04:00:00Z",
-          "temperature": -1.6
+          "temperature": -1.3
         },
         {
           "time": "2026-11-25T05:00:00Z",
-          "temperature": -1.7
+          "temperature": -1.4
         },
         {
           "time": "2026-11-25T06:00:00Z",
-          "temperature": -1.5
+          "temperature": -1.4
         },
         {
           "time": "2026-11-25T07:00:00Z",
-          "temperature": -1.4
+          "temperature": -1.2
         },
         {
           "time": "2026-11-25T08:00:00Z",
@@ -2734,47 +2726,47 @@
         },
         {
           "time": "2026-11-25T09:00:00Z",
-          "temperature": 0.0
+          "temperature": -0.1
         },
         {
           "time": "2026-11-25T10:00:00Z",
-          "temperature": 1.1
+          "temperature": 0.8
         },
         {
           "time": "2026-11-25T11:00:00Z",
-          "temperature": 2.2
+          "temperature": 1.8
         },
         {
           "time": "2026-11-25T12:00:00Z",
-          "temperature": 2.6
-        },
-        {
-          "time": "2026-11-25T13:00:00Z",
-          "temperature": 3.1
-        },
-        {
-          "time": "2026-11-25T14:00:00Z",
-          "temperature": 3.1
-        },
-        {
-          "time": "2026-11-25T15:00:00Z",
           "temperature": 2.4
         },
         {
+          "time": "2026-11-25T13:00:00Z",
+          "temperature": 2.8
+        },
+        {
+          "time": "2026-11-25T14:00:00Z",
+          "temperature": 2.5
+        },
+        {
+          "time": "2026-11-25T15:00:00Z",
+          "temperature": 2.1
+        },
+        {
           "time": "2026-11-25T16:00:00Z",
-          "temperature": 1.5
+          "temperature": 1.3
         },
         {
           "time": "2026-11-25T17:00:00Z",
-          "temperature": 0.7
+          "temperature": 0.6
         },
         {
           "time": "2026-11-25T18:00:00Z",
-          "temperature": -0.2
+          "temperature": -0.1
         },
         {
           "time": "2026-11-25T19:00:00Z",
-          "temperature": -0.8
+          "temperature": -0.7
         },
         {
           "time": "2026-11-25T20:00:00Z",
@@ -2798,51 +2790,51 @@
         },
         {
           "time": "2026-11-26T01:00:00Z",
-          "temperature": -2.9
+          "temperature": -2.8
         },
         {
           "time": "2026-11-26T02:00:00Z",
-          "temperature": -3.1
-        },
-        {
-          "time": "2026-11-26T03:00:00Z",
           "temperature": -3.2
         },
         {
-          "time": "2026-11-26T04:00:00Z",
-          "temperature": -3.3
-        },
-        {
-          "time": "2026-11-26T05:00:00Z",
+          "time": "2026-11-26T03:00:00Z",
           "temperature": -3.5
         },
         {
+          "time": "2026-11-26T04:00:00Z",
+          "temperature": -3.8
+        },
+        {
+          "time": "2026-11-26T05:00:00Z",
+          "temperature": -3.9
+        },
+        {
           "time": "2026-11-26T06:00:00Z",
-          "temperature": -3.6
+          "temperature": -4.0
         },
         {
           "time": "2026-11-26T07:00:00Z",
-          "temperature": -3.3
+          "temperature": -3.7
         },
         {
           "time": "2026-11-26T08:00:00Z",
-          "temperature": -2.9
+          "temperature": -3.2
         },
         {
           "time": "2026-11-26T09:00:00Z",
-          "temperature": -2.1
+          "temperature": -2.2
         },
         {
           "time": "2026-11-26T10:00:00Z",
-          "temperature": -1.0
+          "temperature": -1.2
         },
         {
           "time": "2026-11-26T11:00:00Z",
-          "temperature": -0.2
+          "temperature": -0.3
         },
         {
           "time": "2026-11-26T12:00:00Z",
-          "temperature": 0.3
+          "temperature": 0.1
         },
         {
           "time": "2026-11-26T13:00:00Z",
@@ -2854,51 +2846,59 @@
         },
         {
           "time": "2026-11-26T15:00:00Z",
-          "temperature": 0.1
+          "temperature": -0.1
         },
         {
           "time": "2026-11-26T16:00:00Z",
-          "temperature": -0.4
+          "temperature": -0.7
         },
         {
           "time": "2026-11-26T17:00:00Z",
-          "temperature": -0.9
+          "temperature": -1.1
         },
         {
           "time": "2026-11-26T18:00:00Z",
-          "temperature": -1.3
+          "temperature": -1.5
         },
         {
           "time": "2026-11-26T19:00:00Z",
-          "temperature": -1.6
-        },
-        {
-          "time": "2026-11-26T20:00:00Z",
           "temperature": -1.9
         },
         {
-          "time": "2026-11-26T21:00:00Z",
+          "time": "2026-11-26T20:00:00Z",
           "temperature": -2.1
         },
         {
-          "time": "2026-11-26T22:00:00Z",
-          "temperature": -2.2
-        },
-        {
-          "time": "2026-11-26T23:00:00Z",
+          "time": "2026-11-26T21:00:00Z",
           "temperature": -2.3
         },
         {
-          "time": "2026-11-27T00:00:00Z",
-          "temperature": -2.5
+          "time": "2026-11-26T22:00:00Z",
+          "temperature": -2.4
         },
         {
-          "time": "2026-11-27T01:00:00Z",
+          "time": "2026-11-26T23:00:00Z",
           "temperature": -2.6
         },
         {
+          "time": "2026-11-27T00:00:00Z",
+          "temperature": -2.7
+        },
+        {
+          "time": "2026-11-27T01:00:00Z",
+          "temperature": -2.9
+        },
+        {
           "time": "2026-11-27T02:00:00Z",
-          "temperature": -2.8
+          "temperature": -3.0
+        },
+        {
+          "time": "2026-11-27T03:00:00Z",
+          "temperature": -3.0
+        },
+        {
+          "time": "2026-11-27T04:00:00Z",
+          "temperature": -3.0
         }
       ],
       "errors": []
