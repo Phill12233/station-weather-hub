@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T19:49:00Z",
+  "updatedAt": "2026-11-26T21:05:10Z",
   "source": "Deutscher Wetterdienst POI und MOSMIX_L",
   "gasPathCleaningLimitC": 5.0,
   "nightWindowLocal": "20:00-06:00 Europe/Berlin",
@@ -423,15 +423,15 @@
       "code": "MUC",
       "icao": "EDDM",
       "city": "München",
-      "currentTemp": -1.0,
-      "currentTempTime": "2026-11-26T19:45:00Z",
+      "currentTemp": -1.2,
+      "currentTempTime": "2026-11-26T21:00:00Z",
       "currentTempAgeHours": 0.1,
       "min24h": -2.7,
       "min24hTime": "2026-11-27T04:00:00Z",
       "nightMin": -2.7,
       "nightMinTime": "2026-11-27T04:00:00Z",
-      "forecastStart": "2026-11-26T20:00:00Z",
-      "forecastEnd": "2026-11-30T19:00:00Z",
+      "forecastStart": "2026-11-26T22:00:00Z",
+      "forecastEnd": "2026-11-30T21:00:00Z",
       "gasPathCleaning": "NO GO",
       "weatherStatus": "WARNING",
       "measurementStation": {
@@ -446,14 +446,6 @@
         "longitude": 11.7861
       },
       "hourly": [
-        {
-          "time": "2026-11-26T20:00:00Z",
-          "temperature": -1.1
-        },
-        {
-          "time": "2026-11-26T21:00:00Z",
-          "temperature": -1.0
-        },
         {
           "time": "2026-11-26T22:00:00Z",
           "temperature": -1.2
@@ -829,6 +821,14 @@
         {
           "time": "2026-11-30T19:00:00Z",
           "temperature": -1.0
+        },
+        {
+          "time": "2026-11-30T20:00:00Z",
+          "temperature": -1.1
+        },
+        {
+          "time": "2026-11-30T21:00:00Z",
+          "temperature": -1.5
         }
       ],
       "errors": []
