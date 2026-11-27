@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T23:09:39Z",
+  "updatedAt": "2026-11-27T00:07:16Z",
   "source": "Deutscher Wetterdienst POI und MOSMIX_L",
   "gasPathCleaningLimitC": 5.0,
   "nightWindowLocal": "20:00-06:00 Europe/Berlin",
@@ -2079,15 +2079,15 @@
       "code": "STR",
       "icao": "EDDS",
       "city": "Stuttgart",
-      "currentTemp": -0.5,
-      "currentTempTime": "2026-11-26T23:00:00Z",
+      "currentTemp": -0.6,
+      "currentTempTime": "2026-11-27T00:00:00Z",
       "currentTempAgeHours": 0.2,
-      "min24h": -2.0,
-      "min24hTime": "2026-11-27T06:00:00Z",
-      "nightMin": -1.9,
-      "nightMinTime": "2026-11-27T23:00:00Z",
-      "forecastStart": "2026-11-27T00:00:00Z",
-      "forecastEnd": "2026-11-30T23:00:00Z",
+      "min24h": -2.1,
+      "min24hTime": "2026-11-28T00:00:00Z",
+      "nightMin": -2.1,
+      "nightMinTime": "2026-11-28T00:00:00Z",
+      "forecastStart": "2026-11-27T01:00:00Z",
+      "forecastEnd": "2026-12-01T00:00:00Z",
       "gasPathCleaning": "NO GO",
       "weatherStatus": "WARNING",
       "measurementStation": {
@@ -2102,10 +2102,6 @@
         "longitude": 9.2219
       },
       "hourly": [
-        {
-          "time": "2026-11-27T00:00:00Z",
-          "temperature": -0.8
-        },
         {
           "time": "2026-11-27T01:00:00Z",
           "temperature": -1.0
@@ -2485,6 +2481,10 @@
         {
           "time": "2026-11-30T23:00:00Z",
           "temperature": 0.0
+        },
+        {
+          "time": "2026-12-01T00:00:00Z",
+          "temperature": -0.3
         }
       ],
       "errors": []
@@ -2493,15 +2493,15 @@
       "code": "CGN",
       "icao": "EDDK",
       "city": "Köln/Bonn",
-      "currentTemp": -2.9,
-      "currentTempTime": "2026-11-26T23:00:00Z",
+      "currentTemp": -3.3,
+      "currentTempTime": "2026-11-27T00:00:00Z",
       "currentTempAgeHours": 0.2,
       "min24h": -4.5,
       "min24hTime": "2026-11-27T05:00:00Z",
       "nightMin": -4.5,
       "nightMinTime": "2026-11-27T05:00:00Z",
-      "forecastStart": "2026-11-27T00:00:00Z",
-      "forecastEnd": "2026-11-30T23:00:00Z",
+      "forecastStart": "2026-11-27T01:00:00Z",
+      "forecastEnd": "2026-12-01T00:00:00Z",
       "gasPathCleaning": "NO GO",
       "weatherStatus": "WARNING",
       "measurementStation": {
@@ -2516,10 +2516,6 @@
         "longitude": 7.1427
       },
       "hourly": [
-        {
-          "time": "2026-11-27T00:00:00Z",
-          "temperature": -3.7
-        },
         {
           "time": "2026-11-27T01:00:00Z",
           "temperature": -3.9
@@ -2899,6 +2895,10 @@
         {
           "time": "2026-11-30T23:00:00Z",
           "temperature": 2.2
+        },
+        {
+          "time": "2026-12-01T00:00:00Z",
+          "temperature": 2.1
         }
       ],
       "errors": []
